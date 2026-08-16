@@ -3,22 +3,22 @@
     "game": {
       "name": "Blade Ascension",
       "robux_valuation": {
-        "min": 99303,
-        "max": 198606,
+        "min": 325000,
+        "max": 528000,
         "currency": "Robux",
         "description": "Khoảng Robux ước tính để định giá toàn bộ game."
       },
       "criteria": {
         "ccu_current": {
-          "value": 41955,
+          "value": 41985,
           "description": "Số người chơi đồng thời tại thời điểm đánh giá."
         },
         "ccu_peak": {
-          "value": 14792,
+          "value": 14892,
           "description": "CCU cao nhất mà game từng đạt được."
         },
         "ccu_average": {
-          "value": 1689,
+          "value": 1719,
           "description": "CCU trung bình trong một khoảng thời gian nhất định."
         },
         "ccu_growth_rate": {
@@ -112,107 +112,107 @@
     "game": {
       "name": "Titan Tycoon",
       "robux_valuation": {
-        "min": 123564,
-        "max": 247128,
+        "min": 73000,
+        "max": 122000,
         "currency": "Robux",
         "description": "Khoảng Robux ước tính để định giá toàn bộ game."
       },
       "criteria": {
         "ccu_current": {
-          "value": 27543,
+          "value": 18311,
           "description": "Số người chơi đồng thời tại thời điểm đánh giá."
         },
         "ccu_peak": {
-          "value": 29093,
+          "value": 106393,
           "description": "CCU cao nhất mà game từng đạt được."
         },
         "ccu_average": {
-          "value": 29489,
+          "value": 505,
           "description": "CCU trung bình trong một khoảng thời gian nhất định."
         },
         "ccu_growth_rate": {
-          "value": 29.2,
+          "value": 41.9,
           "description": "Tốc độ tăng hoặc giảm CCU theo thời gian, tính theo phần trăm."
         },
         "difficulty_upgrade": {
-          "value": 10,
+          "value": 30,
           "description": "Mức độ game còn có thể mở rộng progression, nâng cấp, cấp độ và độ khó."
         },
         "content_amount": {
-          "value": 30,
+          "value": 64,
           "description": "Lượng nội dung hiện có trong game."
         },
         "future_update_potential": {
-          "value": 64,
+          "value": 53,
           "description": "Khả năng khai thác thêm nội dung cho các bản cập nhật trong tương lai."
         },
         "content_expandability": {
-          "value": 53,
+          "value": 45,
           "description": "Khả năng mở rộng game bằng map, item, mechanic, quest, boss hoặc hệ thống mới."
         },
         "replayability": {
-          "value": 45,
+          "value": 29,
           "description": "Khả năng khiến người chơi quay lại chơi nhiều lần."
         },
         "gameplay_depth": {
-          "value": 29,
+          "value": 37,
           "description": "Độ sâu và số lượng hệ thống gameplay mà game sở hữu."
         },
         "player_retention": {
-          "value": 37,
+          "value": 53,
           "description": "Khả năng giữ người chơi tiếp tục chơi sau khi đã tham gia game."
         },
         "monetization_potential": {
-          "value": 53,
+          "value": 23,
           "description": "Tiềm năng tạo doanh thu từ game."
         },
         "robux_spending_potential": {
-          "value": 23,
+          "value": 21,
           "description": "Khả năng khiến người chơi chi Robux thông qua gamepass, developer product, item hoặc tính năng trả phí."
         },
         "community_size": {
-          "value": 21,
+          "value": 58,
           "description": "Quy mô cộng đồng và lượng người chơi quan tâm đến game."
         },
         "community_activity": {
-          "value": 58,
+          "value": 22,
           "description": "Mức độ hoạt động của cộng đồng, Discord, social media và các nền tảng liên quan."
         },
         "developer_activity": {
-          "value": 22,
+          "value": 55,
           "description": "Mức độ hoạt động và khả năng tiếp tục phát triển game của developer."
         },
         "update_frequency": {
-          "value": 55,
+          "value": 54,
           "description": "Tần suất game được cập nhật nội dung hoặc sửa đổi."
         },
         "trend_potential": {
-          "value": 54,
+          "value": 87,
           "description": "Khả năng game hưởng lợi từ xu hướng Roblox hoặc thị trường game hiện tại."
         },
         "viral_potential": {
-          "value": 87,
+          "value": 43,
           "description": "Khả năng game trở nên viral và thu hút lượng lớn người chơi trong thời gian ngắn."
         },
         "long_term_potential": {
-          "value": 43,
+          "value": 15,
           "description": "Khả năng game duy trì người chơi và giá trị trong dài hạn."
         },
         "competition_level": {
-          "value": 15,
+          "value": 68,
           "description": "Mức độ cạnh tranh với các game khác cùng thể loại."
         },
         "market_demand": {
-          "value": 68,
+          "value": 78,
           "description": "Mức độ nhu cầu của thị trường đối với thể loại và gameplay của game."
         },
         "like_ratio": {
-          "value": 78.6,
+          "value": 60.5,
           "description": "Tỷ lệ Like so với tổng số Like và Dislike (%)."
         }
       },
       "overall_score": {
-        "value": 45.1,
+        "value": 49.1,
         "description": "Điểm tổng hợp cuối cùng dựa trên toàn bộ tiêu chí."
       }
     }
@@ -221,107 +221,107 @@
     "game": {
       "name": "Shadow Realm RPG",
       "robux_valuation": {
-        "min": 76874,
-        "max": 153748,
+        "min": 6468000,
+        "max": 10472000,
         "currency": "Robux",
         "description": "Khoảng Robux ước tính để định giá toàn bộ game."
       },
       "criteria": {
         "ccu_current": {
-          "value": 24857,
+          "value": 41278,
           "description": "Số người chơi đồng thời tại thời điểm đánh giá."
         },
         "ccu_peak": {
-          "value": 10528,
+          "value": 81370,
           "description": "CCU cao nhất mà game từng đạt được."
         },
         "ccu_average": {
-          "value": 36228,
+          "value": 23780,
           "description": "CCU trung bình trong một khoảng thời gian nhất định."
         },
         "ccu_growth_rate": {
-          "value": 7.0,
+          "value": 28.3,
           "description": "Tốc độ tăng hoặc giảm CCU theo thời gian, tính theo phần trăm."
         },
         "difficulty_upgrade": {
-          "value": 90,
+          "value": 18,
           "description": "Mức độ game còn có thể mở rộng progression, nâng cấp, cấp độ và độ khó."
         },
         "content_amount": {
-          "value": 89,
+          "value": 15,
           "description": "Lượng nội dung hiện có trong game."
         },
         "future_update_potential": {
-          "value": 56,
+          "value": 94,
           "description": "Khả năng khai thác thêm nội dung cho các bản cập nhật trong tương lai."
         },
         "content_expandability": {
-          "value": 83,
+          "value": 39,
           "description": "Khả năng mở rộng game bằng map, item, mechanic, quest, boss hoặc hệ thống mới."
         },
         "replayability": {
-          "value": 34,
+          "value": 47,
           "description": "Khả năng khiến người chơi quay lại chơi nhiều lần."
         },
         "gameplay_depth": {
-          "value": 18,
+          "value": 20,
           "description": "Độ sâu và số lượng hệ thống gameplay mà game sở hữu."
         },
         "player_retention": {
-          "value": 15,
+          "value": 39,
           "description": "Khả năng giữ người chơi tiếp tục chơi sau khi đã tham gia game."
         },
         "monetization_potential": {
-          "value": 94,
+          "value": 22,
           "description": "Tiềm năng tạo doanh thu từ game."
         },
         "robux_spending_potential": {
-          "value": 39,
+          "value": 58,
           "description": "Khả năng khiến người chơi chi Robux thông qua gamepass, developer product, item hoặc tính năng trả phí."
         },
         "community_size": {
-          "value": 47,
+          "value": 45,
           "description": "Quy mô cộng đồng và lượng người chơi quan tâm đến game."
         },
         "community_activity": {
-          "value": 20,
+          "value": 68,
           "description": "Mức độ hoạt động của cộng đồng, Discord, social media và các nền tảng liên quan."
         },
         "developer_activity": {
-          "value": 39,
+          "value": 91,
           "description": "Mức độ hoạt động và khả năng tiếp tục phát triển game của developer."
         },
         "update_frequency": {
-          "value": 22,
+          "value": 56,
           "description": "Tần suất game được cập nhật nội dung hoặc sửa đổi."
         },
         "trend_potential": {
-          "value": 58,
+          "value": 30,
           "description": "Khả năng game hưởng lợi từ xu hướng Roblox hoặc thị trường game hiện tại."
         },
         "viral_potential": {
-          "value": 45,
+          "value": 57,
           "description": "Khả năng game trở nên viral và thu hút lượng lớn người chơi trong thời gian ngắn."
         },
         "long_term_potential": {
-          "value": 68,
+          "value": 55,
           "description": "Khả năng game duy trì người chơi và giá trị trong dài hạn."
         },
         "competition_level": {
-          "value": 91,
+          "value": 36,
           "description": "Mức độ cạnh tranh với các game khác cùng thể loại."
         },
         "market_demand": {
-          "value": 56,
+          "value": 95,
           "description": "Mức độ nhu cầu của thị trường đối với thể loại và gameplay của game."
         },
         "like_ratio": {
-          "value": 62.2,
+          "value": 66.7,
           "description": "Tỷ lệ Like so với tổng số Like và Dislike (%)."
         }
       },
       "overall_score": {
-        "value": 56.7,
+        "value": 52.1,
         "description": "Điểm tổng hợp cuối cùng dựa trên toàn bộ tiêu chí."
       }
     }
@@ -330,107 +330,107 @@
     "game": {
       "name": "Fishing Empire",
       "robux_valuation": {
-        "min": 134407,
-        "max": 268815,
+        "min": 6438000,
+        "max": 9361000,
         "currency": "Robux",
         "description": "Khoảng Robux ước tính để định giá toàn bộ game."
       },
       "criteria": {
         "ccu_current": {
-          "value": 43970,
+          "value": 11295,
           "description": "Số người chơi đồng thời tại thời điểm đánh giá."
         },
         "ccu_peak": {
-          "value": 35193,
+          "value": 70310,
           "description": "CCU cao nhất mà game từng đạt được."
         },
         "ccu_average": {
-          "value": 4729,
+          "value": 47864,
           "description": "CCU trung bình trong một khoảng thời gian nhất định."
         },
         "ccu_growth_rate": {
-          "value": 30.7,
+          "value": 3.4,
           "description": "Tốc độ tăng hoặc giảm CCU theo thời gian, tính theo phần trăm."
         },
         "difficulty_upgrade": {
-          "value": 31,
+          "value": 69,
           "description": "Mức độ game còn có thể mở rộng progression, nâng cấp, cấp độ và độ khó."
         },
         "content_amount": {
-          "value": 78,
+          "value": 58,
           "description": "Lượng nội dung hiện có trong game."
         },
         "future_update_potential": {
-          "value": 41,
+          "value": 44,
           "description": "Khả năng khai thác thêm nội dung cho các bản cập nhật trong tương lai."
         },
         "content_expandability": {
-          "value": 30,
+          "value": 91,
           "description": "Khả năng mở rộng game bằng map, item, mechanic, quest, boss hoặc hệ thống mới."
         },
         "replayability": {
-          "value": 69,
+          "value": 81,
           "description": "Khả năng khiến người chơi quay lại chơi nhiều lần."
         },
         "gameplay_depth": {
-          "value": 58,
+          "value": 38,
           "description": "Độ sâu và số lượng hệ thống gameplay mà game sở hữu."
         },
         "player_retention": {
-          "value": 44,
+          "value": 51,
           "description": "Khả năng giữ người chơi tiếp tục chơi sau khi đã tham gia game."
         },
         "monetization_potential": {
-          "value": 91,
+          "value": 17,
           "description": "Tiềm năng tạo doanh thu từ game."
         },
         "robux_spending_potential": {
-          "value": 81,
+          "value": 39,
           "description": "Khả năng khiến người chơi chi Robux thông qua gamepass, developer product, item hoặc tính năng trả phí."
         },
         "community_size": {
-          "value": 38,
+          "value": 14,
           "description": "Quy mô cộng đồng và lượng người chơi quan tâm đến game."
         },
         "community_activity": {
-          "value": 51,
+          "value": 50,
           "description": "Mức độ hoạt động của cộng đồng, Discord, social media và các nền tảng liên quan."
         },
         "developer_activity": {
-          "value": 17,
+          "value": 61,
           "description": "Mức độ hoạt động và khả năng tiếp tục phát triển game của developer."
         },
         "update_frequency": {
-          "value": 39,
+          "value": 44,
           "description": "Tần suất game được cập nhật nội dung hoặc sửa đổi."
         },
         "trend_potential": {
-          "value": 14,
+          "value": 18,
           "description": "Khả năng game hưởng lợi từ xu hướng Roblox hoặc thị trường game hiện tại."
         },
         "viral_potential": {
-          "value": 50,
+          "value": 37,
           "description": "Khả năng game trở nên viral và thu hút lượng lớn người chơi trong thời gian ngắn."
         },
         "long_term_potential": {
-          "value": 61,
+          "value": 82,
           "description": "Khả năng game duy trì người chơi và giá trị trong dài hạn."
         },
         "competition_level": {
-          "value": 44,
+          "value": 50,
           "description": "Mức độ cạnh tranh với các game khác cùng thể loại."
         },
         "market_demand": {
-          "value": 18,
+          "value": 37,
           "description": "Mức độ nhu cầu của thị trường đối với thể loại và gameplay của game."
         },
         "like_ratio": {
-          "value": 64.3,
+          "value": 83.8,
           "description": "Tỷ lệ Like so với tổng số Like và Dislike (%)."
         }
       },
       "overall_score": {
-        "value": 50.3,
+        "value": 51.8,
         "description": "Điểm tổng hợp cuối cùng dựa trên toàn bộ tiêu chí."
       }
     }
@@ -439,107 +439,107 @@
     "game": {
       "name": "Cultivation Legacy",
       "robux_valuation": {
-        "min": 41596,
-        "max": 83192,
+        "min": 2438000,
+        "max": 3816000,
         "currency": "Robux",
         "description": "Khoảng Robux ước tính để định giá toàn bộ game."
       },
       "criteria": {
         "ccu_current": {
-          "value": 20672,
+          "value": 17439,
           "description": "Số người chơi đồng thời tại thời điểm đánh giá."
         },
         "ccu_peak": {
-          "value": 28069,
+          "value": 18601,
           "description": "CCU cao nhất mà game từng đạt được."
         },
         "ccu_average": {
-          "value": 32767,
+          "value": 16242,
           "description": "CCU trung bình trong một khoảng thời gian nhất định."
         },
         "ccu_growth_rate": {
-          "value": 14.7,
+          "value": 40.9,
           "description": "Tốc độ tăng hoặc giảm CCU theo thời gian, tính theo phần trăm."
         },
         "difficulty_upgrade": {
-          "value": 92,
+          "value": 78,
           "description": "Mức độ game còn có thể mở rộng progression, nâng cấp, cấp độ và độ khó."
         },
         "content_amount": {
-          "value": 68,
+          "value": 43,
           "description": "Lượng nội dung hiện có trong game."
         },
         "future_update_potential": {
-          "value": 28,
+          "value": 84,
           "description": "Khả năng khai thác thêm nội dung cho các bản cập nhật trong tương lai."
         },
         "content_expandability": {
-          "value": 43,
+          "value": 64,
           "description": "Khả năng mở rộng game bằng map, item, mechanic, quest, boss hoặc hệ thống mới."
         },
         "replayability": {
-          "value": 27,
+          "value": 84,
           "description": "Khả năng khiến người chơi quay lại chơi nhiều lần."
         },
         "gameplay_depth": {
-          "value": 41,
+          "value": 61,
           "description": "Độ sâu và số lượng hệ thống gameplay mà game sở hữu."
         },
         "player_retention": {
-          "value": 81,
+          "value": 56,
           "description": "Khả năng giữ người chơi tiếp tục chơi sau khi đã tham gia game."
         },
         "monetization_potential": {
-          "value": 78,
+          "value": 38,
           "description": "Tiềm năng tạo doanh thu từ game."
         },
         "robux_spending_potential": {
-          "value": 43,
+          "value": 27,
           "description": "Khả năng khiến người chơi chi Robux thông qua gamepass, developer product, item hoặc tính năng trả phí."
         },
         "community_size": {
-          "value": 84,
+          "value": 75,
           "description": "Quy mô cộng đồng và lượng người chơi quan tâm đến game."
         },
         "community_activity": {
-          "value": 64,
+          "value": 73,
           "description": "Mức độ hoạt động của cộng đồng, Discord, social media và các nền tảng liên quan."
         },
         "developer_activity": {
-          "value": 84,
+          "value": 21,
           "description": "Mức độ hoạt động và khả năng tiếp tục phát triển game của developer."
         },
         "update_frequency": {
-          "value": 61,
+          "value": 16,
           "description": "Tần suất game được cập nhật nội dung hoặc sửa đổi."
         },
         "trend_potential": {
-          "value": 56,
+          "value": 24,
           "description": "Khả năng game hưởng lợi từ xu hướng Roblox hoặc thị trường game hiện tại."
         },
         "viral_potential": {
-          "value": 38,
+          "value": 29,
           "description": "Khả năng game trở nên viral và thu hút lượng lớn người chơi trong thời gian ngắn."
         },
         "long_term_potential": {
-          "value": 27,
+          "value": 90,
           "description": "Khả năng game duy trì người chơi và giá trị trong dài hạn."
         },
         "competition_level": {
-          "value": 75,
+          "value": 30,
           "description": "Mức độ cạnh tranh với các game khác cùng thể loại."
         },
         "market_demand": {
-          "value": 73,
+          "value": 64,
           "description": "Mức độ nhu cầu của thị trường đối với thể loại và gameplay của game."
         },
         "like_ratio": {
-          "value": 59.0,
+          "value": 81.2,
           "description": "Tỷ lệ Like so với tổng số Like và Dislike (%)."
         }
       },
       "overall_score": {
-        "value": 62.5,
+        "value": 56.3,
         "description": "Điểm tổng hợp cuối cùng dựa trên toàn bộ tiêu chí."
       }
     }
@@ -548,107 +548,107 @@
     "game": {
       "name": "Pet Simulator Origins",
       "robux_valuation": {
-        "min": 93792,
-        "max": 187584,
+        "min": 177000,
+        "max": 296000,
         "currency": "Robux",
         "description": "Khoảng Robux ước tính để định giá toàn bộ game."
       },
       "criteria": {
         "ccu_current": {
-          "value": 7235,
+          "value": 16556,
           "description": "Số người chơi đồng thời tại thời điểm đánh giá."
         },
         "ccu_peak": {
-          "value": 20233,
+          "value": 72812,
           "description": "CCU cao nhất mà game từng đạt được."
         },
         "ccu_average": {
-          "value": 10534,
+          "value": 832,
           "description": "CCU trung bình trong một khoảng thời gian nhất định."
         },
         "ccu_growth_rate": {
-          "value": 44.4,
+          "value": 36.0,
           "description": "Tốc độ tăng hoặc giảm CCU theo thời gian, tính theo phần trăm."
         },
         "difficulty_upgrade": {
-          "value": 64,
+          "value": 24,
           "description": "Mức độ game còn có thể mở rộng progression, nâng cấp, cấp độ và độ khó."
         },
         "content_amount": {
-          "value": 86,
+          "value": 78,
           "description": "Lượng nội dung hiện có trong game."
         },
         "future_update_potential": {
-          "value": 18,
+          "value": 44,
           "description": "Khả năng khai thác thêm nội dung cho các bản cập nhật trong tương lai."
         },
         "content_expandability": {
-          "value": 59,
+          "value": 92,
           "description": "Khả năng mở rộng game bằng map, item, mechanic, quest, boss hoặc hệ thống mới."
         },
         "replayability": {
-          "value": 58,
+          "value": 53,
           "description": "Khả năng khiến người chơi quay lại chơi nhiều lần."
         },
         "gameplay_depth": {
-          "value": 86,
+          "value": 24,
           "description": "Độ sâu và số lượng hệ thống gameplay mà game sở hữu."
         },
         "player_retention": {
-          "value": 69,
+          "value": 47,
           "description": "Khả năng giữ người chơi tiếp tục chơi sau khi đã tham gia game."
         },
         "monetization_potential": {
-          "value": 77,
+          "value": 65,
           "description": "Tiềm năng tạo doanh thu từ game."
         },
         "robux_spending_potential": {
-          "value": 42,
+          "value": 30,
           "description": "Khả năng khiến người chơi chi Robux thông qua gamepass, developer product, item hoặc tính năng trả phí."
         },
         "community_size": {
-          "value": 80,
+          "value": 68,
           "description": "Quy mô cộng đồng và lượng người chơi quan tâm đến game."
         },
         "community_activity": {
-          "value": 11,
+          "value": 10,
           "description": "Mức độ hoạt động của cộng đồng, Discord, social media và các nền tảng liên quan."
         },
         "developer_activity": {
-          "value": 24,
+          "value": 43,
           "description": "Mức độ hoạt động và khả năng tiếp tục phát triển game của developer."
         },
         "update_frequency": {
-          "value": 78,
+          "value": 74,
           "description": "Tần suất game được cập nhật nội dung hoặc sửa đổi."
         },
         "trend_potential": {
-          "value": 44,
+          "value": 32,
           "description": "Khả năng game hưởng lợi từ xu hướng Roblox hoặc thị trường game hiện tại."
         },
         "viral_potential": {
-          "value": 92,
+          "value": 74,
           "description": "Khả năng game trở nên viral và thu hút lượng lớn người chơi trong thời gian ngắn."
         },
         "long_term_potential": {
-          "value": 53,
+          "value": 23,
           "description": "Khả năng game duy trì người chơi và giá trị trong dài hạn."
         },
         "competition_level": {
-          "value": 24,
+          "value": 90,
           "description": "Mức độ cạnh tranh với các game khác cùng thể loại."
         },
         "market_demand": {
-          "value": 47,
+          "value": 48,
           "description": "Mức độ nhu cầu của thị trường đối với thể loại và gameplay của game."
         },
         "like_ratio": {
-          "value": 74.1,
+          "value": 92.0,
           "description": "Tỷ lệ Like so với tổng số Like và Dislike (%)."
         }
       },
       "overall_score": {
-        "value": 59.5,
+        "value": 54.1,
         "description": "Điểm tổng hợp cuối cùng dựa trên toàn bộ tiêu chí."
       }
     }
@@ -657,102 +657,320 @@
     "game": {
       "name": "Mecha Warfare",
       "robux_valuation": {
-        "min": 145126,
-        "max": 290253,
+        "min": 6019000,
+        "max": 10665000,
         "currency": "Robux",
         "description": "Khoảng Robux ước tính để định giá toàn bộ game."
       },
       "criteria": {
         "ccu_current": {
-          "value": 17311,
+          "value": 10667,
           "description": "Số người chơi đồng thời tại thời điểm đánh giá."
         },
         "ccu_peak": {
-          "value": 65812,
+          "value": 70997,
           "description": "CCU cao nhất mà game từng đạt được."
         },
         "ccu_average": {
-          "value": 11758,
+          "value": 34837,
           "description": "CCU trung bình trong một khoảng thời gian nhất định."
         },
         "ccu_growth_rate": {
-          "value": 23.1,
+          "value": 53.9,
           "description": "Tốc độ tăng hoặc giảm CCU theo thời gian, tính theo phần trăm."
         },
         "difficulty_upgrade": {
-          "value": 23,
+          "value": 86,
           "description": "Mức độ game còn có thể mở rộng progression, nâng cấp, cấp độ và độ khó."
         },
         "content_amount": {
-          "value": 90,
+          "value": 51,
           "description": "Lượng nội dung hiện có trong game."
         },
         "future_update_potential": {
-          "value": 48,
+          "value": 72,
           "description": "Khả năng khai thác thêm nội dung cho các bản cập nhật trong tương lai."
         },
         "content_expandability": {
-          "value": 91,
+          "value": 12,
           "description": "Khả năng mở rộng game bằng map, item, mechanic, quest, boss hoặc hệ thống mới."
         },
         "replayability": {
-          "value": 74,
+          "value": 24,
           "description": "Khả năng khiến người chơi quay lại chơi nhiều lần."
         },
         "gameplay_depth": {
-          "value": 87,
+          "value": 56,
           "description": "Độ sâu và số lượng hệ thống gameplay mà game sở hữu."
         },
         "player_retention": {
-          "value": 35,
+          "value": 49,
           "description": "Khả năng giữ người chơi tiếp tục chơi sau khi đã tham gia game."
         },
         "monetization_potential": {
-          "value": 29,
+          "value": 40,
           "description": "Tiềm năng tạo doanh thu từ game."
         },
         "robux_spending_potential": {
-          "value": 57,
+          "value": 17,
           "description": "Khả năng khiến người chơi chi Robux thông qua gamepass, developer product, item hoặc tính năng trả phí."
         },
         "community_size": {
-          "value": 30,
+          "value": 40,
           "description": "Quy mô cộng đồng và lượng người chơi quan tâm đến game."
         },
         "community_activity": {
-          "value": 79,
+          "value": 82,
           "description": "Mức độ hoạt động của cộng đồng, Discord, social media và các nền tảng liên quan."
         },
         "developer_activity": {
-          "value": 77,
+          "value": 20,
           "description": "Mức độ hoạt động và khả năng tiếp tục phát triển game của developer."
         },
         "update_frequency": {
-          "value": 10,
+          "value": 20,
           "description": "Tần suất game được cập nhật nội dung hoặc sửa đổi."
         },
         "trend_potential": {
-          "value": 86,
+          "value": 72,
           "description": "Khả năng game hưởng lợi từ xu hướng Roblox hoặc thị trường game hiện tại."
         },
         "viral_potential": {
-          "value": 51,
+          "value": 18,
           "description": "Khả năng game trở nên viral và thu hút lượng lớn người chơi trong thời gian ngắn."
         },
         "long_term_potential": {
-          "value": 72,
+          "value": 78,
           "description": "Khả năng game duy trì người chơi và giá trị trong dài hạn."
         },
         "competition_level": {
-          "value": 12,
+          "value": 26,
           "description": "Mức độ cạnh tranh với các game khác cùng thể loại."
         },
         "market_demand": {
-          "value": 24,
+          "value": 26,
           "description": "Mức độ nhu cầu của thị trường đối với thể loại và gameplay của game."
         },
         "like_ratio": {
-          "value": 95.9,
+          "value": 84.0,
+          "description": "Tỷ lệ Like so với tổng số Like và Dislike (%)."
+        }
+      },
+      "overall_score": {
+        "value": 46.4,
+        "description": "Điểm tổng hợp cuối cùng dựa trên toàn bộ tiêu chí."
+      }
+    }
+  },
+  {
+    "game": {
+      "name": "Kingdom Builders",
+      "robux_valuation": {
+        "min": 3050000,
+        "max": 4024000,
+        "currency": "Robux",
+        "description": "Khoảng Robux ước tính để định giá toàn bộ game."
+      },
+      "criteria": {
+        "ccu_current": {
+          "value": 39833,
+          "description": "Số người chơi đồng thời tại thời điểm đánh giá."
+        },
+        "ccu_peak": {
+          "value": 55761,
+          "description": "CCU cao nhất mà game từng đạt được."
+        },
+        "ccu_average": {
+          "value": 13960,
+          "description": "CCU trung bình trong một khoảng thời gian nhất định."
+        },
+        "ccu_growth_rate": {
+          "value": 54.7,
+          "description": "Tốc độ tăng hoặc giảm CCU theo thời gian, tính theo phần trăm."
+        },
+        "difficulty_upgrade": {
+          "value": 35,
+          "description": "Mức độ game còn có thể mở rộng progression, nâng cấp, cấp độ và độ khó."
+        },
+        "content_amount": {
+          "value": 49,
+          "description": "Lượng nội dung hiện có trong game."
+        },
+        "future_update_potential": {
+          "value": 61,
+          "description": "Khả năng khai thác thêm nội dung cho các bản cập nhật trong tương lai."
+        },
+        "content_expandability": {
+          "value": 95,
+          "description": "Khả năng mở rộng game bằng map, item, mechanic, quest, boss hoặc hệ thống mới."
+        },
+        "replayability": {
+          "value": 93,
+          "description": "Khả năng khiến người chơi quay lại chơi nhiều lần."
+        },
+        "gameplay_depth": {
+          "value": 57,
+          "description": "Độ sâu và số lượng hệ thống gameplay mà game sở hữu."
+        },
+        "player_retention": {
+          "value": 66,
+          "description": "Khả năng giữ người chơi tiếp tục chơi sau khi đã tham gia game."
+        },
+        "monetization_potential": {
+          "value": 76,
+          "description": "Tiềm năng tạo doanh thu từ game."
+        },
+        "robux_spending_potential": {
+          "value": 67,
+          "description": "Khả năng khiến người chơi chi Robux thông qua gamepass, developer product, item hoặc tính năng trả phí."
+        },
+        "community_size": {
+          "value": 25,
+          "description": "Quy mô cộng đồng và lượng người chơi quan tâm đến game."
+        },
+        "community_activity": {
+          "value": 41,
+          "description": "Mức độ hoạt động của cộng đồng, Discord, social media và các nền tảng liên quan."
+        },
+        "developer_activity": {
+          "value": 38,
+          "description": "Mức độ hoạt động và khả năng tiếp tục phát triển game của developer."
+        },
+        "update_frequency": {
+          "value": 18,
+          "description": "Tần suất game được cập nhật nội dung hoặc sửa đổi."
+        },
+        "trend_potential": {
+          "value": 53,
+          "description": "Khả năng game hưởng lợi từ xu hướng Roblox hoặc thị trường game hiện tại."
+        },
+        "viral_potential": {
+          "value": 12,
+          "description": "Khả năng game trở nên viral và thu hút lượng lớn người chơi trong thời gian ngắn."
+        },
+        "long_term_potential": {
+          "value": 85,
+          "description": "Khả năng game duy trì người chơi và giá trị trong dài hạn."
+        },
+        "competition_level": {
+          "value": 80,
+          "description": "Mức độ cạnh tranh với các game khác cùng thể loại."
+        },
+        "market_demand": {
+          "value": 39,
+          "description": "Mức độ nhu cầu của thị trường đối với thể loại và gameplay của game."
+        },
+        "like_ratio": {
+          "value": 80.9,
+          "description": "Tỷ lệ Like so với tổng số Like và Dislike (%)."
+        }
+      },
+      "overall_score": {
+        "value": 58.2,
+        "description": "Điểm tổng hợp cuối cùng dựa trên toàn bộ tiêu chí."
+      }
+    }
+  },
+  {
+    "game": {
+      "name": "Zombie Outbreak Z",
+      "robux_valuation": {
+        "min": 451000,
+        "max": 834000,
+        "currency": "Robux",
+        "description": "Khoảng Robux ước tính để định giá toàn bộ game."
+      },
+      "criteria": {
+        "ccu_current": {
+          "value": 4497,
+          "description": "Số người chơi đồng thời tại thời điểm đánh giá."
+        },
+        "ccu_peak": {
+          "value": 118975,
+          "description": "CCU cao nhất mà game từng đạt được."
+        },
+        "ccu_average": {
+          "value": 2138,
+          "description": "CCU trung bình trong một khoảng thời gian nhất định."
+        },
+        "ccu_growth_rate": {
+          "value": 49.5,
+          "description": "Tốc độ tăng hoặc giảm CCU theo thời gian, tính theo phần trăm."
+        },
+        "difficulty_upgrade": {
+          "value": 19,
+          "description": "Mức độ game còn có thể mở rộng progression, nâng cấp, cấp độ và độ khó."
+        },
+        "content_amount": {
+          "value": 75,
+          "description": "Lượng nội dung hiện có trong game."
+        },
+        "future_update_potential": {
+          "value": 40,
+          "description": "Khả năng khai thác thêm nội dung cho các bản cập nhật trong tương lai."
+        },
+        "content_expandability": {
+          "value": 45,
+          "description": "Khả năng mở rộng game bằng map, item, mechanic, quest, boss hoặc hệ thống mới."
+        },
+        "replayability": {
+          "value": 95,
+          "description": "Khả năng khiến người chơi quay lại chơi nhiều lần."
+        },
+        "gameplay_depth": {
+          "value": 72,
+          "description": "Độ sâu và số lượng hệ thống gameplay mà game sở hữu."
+        },
+        "player_retention": {
+          "value": 37,
+          "description": "Khả năng giữ người chơi tiếp tục chơi sau khi đã tham gia game."
+        },
+        "monetization_potential": {
+          "value": 79,
+          "description": "Tiềm năng tạo doanh thu từ game."
+        },
+        "robux_spending_potential": {
+          "value": 26,
+          "description": "Khả năng khiến người chơi chi Robux thông qua gamepass, developer product, item hoặc tính năng trả phí."
+        },
+        "community_size": {
+          "value": 83,
+          "description": "Quy mô cộng đồng và lượng người chơi quan tâm đến game."
+        },
+        "community_activity": {
+          "value": 83,
+          "description": "Mức độ hoạt động của cộng đồng, Discord, social media và các nền tảng liên quan."
+        },
+        "developer_activity": {
+          "value": 70,
+          "description": "Mức độ hoạt động và khả năng tiếp tục phát triển game của developer."
+        },
+        "update_frequency": {
+          "value": 41,
+          "description": "Tần suất game được cập nhật nội dung hoặc sửa đổi."
+        },
+        "trend_potential": {
+          "value": 70,
+          "description": "Khả năng game hưởng lợi từ xu hướng Roblox hoặc thị trường game hiện tại."
+        },
+        "viral_potential": {
+          "value": 62,
+          "description": "Khả năng game trở nên viral và thu hút lượng lớn người chơi trong thời gian ngắn."
+        },
+        "long_term_potential": {
+          "value": 34,
+          "description": "Khả năng game duy trì người chơi và giá trị trong dài hạn."
+        },
+        "competition_level": {
+          "value": 22,
+          "description": "Mức độ cạnh tranh với các game khác cùng thể loại."
+        },
+        "market_demand": {
+          "value": 22,
+          "description": "Mức độ nhu cầu của thị trường đối với thể loại và gameplay của game."
+        },
+        "like_ratio": {
+          "value": 84.0,
           "description": "Tỷ lệ Like so với tổng số Like và Dislike (%)."
         }
       },
@@ -764,327 +982,109 @@
   },
   {
     "game": {
-      "name": "Kingdom Builders",
-      "robux_valuation": {
-        "min": 124423,
-        "max": 248846,
-        "currency": "Robux",
-        "description": "Khoảng Robux ước tính để định giá toàn bộ game."
-      },
-      "criteria": {
-        "ccu_current": {
-          "value": 20203,
-          "description": "Số người chơi đồng thời tại thời điểm đánh giá."
-        },
-        "ccu_peak": {
-          "value": 31585,
-          "description": "CCU cao nhất mà game từng đạt được."
-        },
-        "ccu_average": {
-          "value": 3846,
-          "description": "CCU trung bình trong một khoảng thời gian nhất định."
-        },
-        "ccu_growth_rate": {
-          "value": 3.1,
-          "description": "Tốc độ tăng hoặc giảm CCU theo thời gian, tính theo phần trăm."
-        },
-        "difficulty_upgrade": {
-          "value": 82,
-          "description": "Mức độ game còn có thể mở rộng progression, nâng cấp, cấp độ và độ khó."
-        },
-        "content_amount": {
-          "value": 20,
-          "description": "Lượng nội dung hiện có trong game."
-        },
-        "future_update_potential": {
-          "value": 20,
-          "description": "Khả năng khai thác thêm nội dung cho các bản cập nhật trong tương lai."
-        },
-        "content_expandability": {
-          "value": 72,
-          "description": "Khả năng mở rộng game bằng map, item, mechanic, quest, boss hoặc hệ thống mới."
-        },
-        "replayability": {
-          "value": 18,
-          "description": "Khả năng khiến người chơi quay lại chơi nhiều lần."
-        },
-        "gameplay_depth": {
-          "value": 78,
-          "description": "Độ sâu và số lượng hệ thống gameplay mà game sở hữu."
-        },
-        "player_retention": {
-          "value": 26,
-          "description": "Khả năng giữ người chơi tiếp tục chơi sau khi đã tham gia game."
-        },
-        "monetization_potential": {
-          "value": 26,
-          "description": "Tiềm năng tạo doanh thu từ game."
-        },
-        "robux_spending_potential": {
-          "value": 94,
-          "description": "Khả năng khiến người chơi chi Robux thông qua gamepass, developer product, item hoặc tính năng trả phí."
-        },
-        "community_size": {
-          "value": 70,
-          "description": "Quy mô cộng đồng và lượng người chơi quan tâm đến game."
-        },
-        "community_activity": {
-          "value": 80,
-          "description": "Mức độ hoạt động của cộng đồng, Discord, social media và các nền tảng liên quan."
-        },
-        "developer_activity": {
-          "value": 31,
-          "description": "Mức độ hoạt động và khả năng tiếp tục phát triển game của developer."
-        },
-        "update_frequency": {
-          "value": 43,
-          "description": "Tần suất game được cập nhật nội dung hoặc sửa đổi."
-        },
-        "trend_potential": {
-          "value": 77,
-          "description": "Khả năng game hưởng lợi từ xu hướng Roblox hoặc thị trường game hiện tại."
-        },
-        "viral_potential": {
-          "value": 87,
-          "description": "Khả năng game trở nên viral và thu hút lượng lớn người chơi trong thời gian ngắn."
-        },
-        "long_term_potential": {
-          "value": 64,
-          "description": "Khả năng game duy trì người chơi và giá trị trong dài hạn."
-        },
-        "competition_level": {
-          "value": 37,
-          "description": "Mức độ cạnh tranh với các game khác cùng thể loại."
-        },
-        "market_demand": {
-          "value": 79,
-          "description": "Mức độ nhu cầu của thị trường đối với thể loại và gameplay của game."
-        },
-        "like_ratio": {
-          "value": 88.2,
-          "description": "Tỷ lệ Like so với tổng số Like và Dislike (%)."
-        }
-      },
-      "overall_score": {
-        "value": 59.1,
-        "description": "Điểm tổng hợp cuối cùng dựa trên toàn bộ tiêu chí."
-      }
-    }
-  },
-  {
-    "game": {
-      "name": "Zombie Outbreak Z",
-      "robux_valuation": {
-        "min": 30824,
-        "max": 61649,
-        "currency": "Robux",
-        "description": "Khoảng Robux ước tính để định giá toàn bộ game."
-      },
-      "criteria": {
-        "ccu_current": {
-          "value": 20478,
-          "description": "Số người chơi đồng thời tại thời điểm đánh giá."
-        },
-        "ccu_peak": {
-          "value": 52496,
-          "description": "CCU cao nhất mà game từng đạt được."
-        },
-        "ccu_average": {
-          "value": 24522,
-          "description": "CCU trung bình trong một khoảng thời gian nhất định."
-        },
-        "ccu_growth_rate": {
-          "value": 17.9,
-          "description": "Tốc độ tăng hoặc giảm CCU theo thời gian, tính theo phần trăm."
-        },
-        "difficulty_upgrade": {
-          "value": 76,
-          "description": "Mức độ game còn có thể mở rộng progression, nâng cấp, cấp độ và độ khó."
-        },
-        "content_amount": {
-          "value": 67,
-          "description": "Lượng nội dung hiện có trong game."
-        },
-        "future_update_potential": {
-          "value": 25,
-          "description": "Khả năng khai thác thêm nội dung cho các bản cập nhật trong tương lai."
-        },
-        "content_expandability": {
-          "value": 41,
-          "description": "Khả năng mở rộng game bằng map, item, mechanic, quest, boss hoặc hệ thống mới."
-        },
-        "replayability": {
-          "value": 38,
-          "description": "Khả năng khiến người chơi quay lại chơi nhiều lần."
-        },
-        "gameplay_depth": {
-          "value": 18,
-          "description": "Độ sâu và số lượng hệ thống gameplay mà game sở hữu."
-        },
-        "player_retention": {
-          "value": 53,
-          "description": "Khả năng giữ người chơi tiếp tục chơi sau khi đã tham gia game."
-        },
-        "monetization_potential": {
-          "value": 12,
-          "description": "Tiềm năng tạo doanh thu từ game."
-        },
-        "robux_spending_potential": {
-          "value": 85,
-          "description": "Khả năng khiến người chơi chi Robux thông qua gamepass, developer product, item hoặc tính năng trả phí."
-        },
-        "community_size": {
-          "value": 80,
-          "description": "Quy mô cộng đồng và lượng người chơi quan tâm đến game."
-        },
-        "community_activity": {
-          "value": 39,
-          "description": "Mức độ hoạt động của cộng đồng, Discord, social media và các nền tảng liên quan."
-        },
-        "developer_activity": {
-          "value": 85,
-          "description": "Mức độ hoạt động và khả năng tiếp tục phát triển game của developer."
-        },
-        "update_frequency": {
-          "value": 38,
-          "description": "Tần suất game được cập nhật nội dung hoặc sửa đổi."
-        },
-        "trend_potential": {
-          "value": 10,
-          "description": "Khả năng game hưởng lợi từ xu hướng Roblox hoặc thị trường game hiện tại."
-        },
-        "viral_potential": {
-          "value": 19,
-          "description": "Khả năng game trở nên viral và thu hút lượng lớn người chơi trong thời gian ngắn."
-        },
-        "long_term_potential": {
-          "value": 90,
-          "description": "Khả năng game duy trì người chơi và giá trị trong dài hạn."
-        },
-        "competition_level": {
-          "value": 17,
-          "description": "Mức độ cạnh tranh với các game khác cùng thể loại."
-        },
-        "market_demand": {
-          "value": 39,
-          "description": "Mức độ nhu cầu của thị trường đối với thể loại và gameplay của game."
-        },
-        "like_ratio": {
-          "value": 58.0,
-          "description": "Tỷ lệ Like so với tổng số Like và Dislike (%)."
-        }
-      },
-      "overall_score": {
-        "value": 48.9,
-        "description": "Điểm tổng hợp cuối cùng dựa trên toàn bộ tiêu chí."
-      }
-    }
-  },
-  {
-    "game": {
       "name": "Anime Fighters Rebirth",
       "robux_valuation": {
-        "min": 157683,
-        "max": 315367,
+        "min": 13132000,
+        "max": 24632000,
         "currency": "Robux",
         "description": "Khoảng Robux ước tính để định giá toàn bộ game."
       },
       "criteria": {
         "ccu_current": {
-          "value": 21704,
+          "value": 3630,
           "description": "Số người chơi đồng thời tại thời điểm đánh giá."
         },
         "ccu_peak": {
-          "value": 9487,
+          "value": 88559,
           "description": "CCU cao nhất mà game từng đạt được."
         },
         "ccu_average": {
-          "value": 33745,
+          "value": 42904,
           "description": "CCU trung bình trong một khoảng thời gian nhất định."
         },
         "ccu_growth_rate": {
-          "value": 2.9,
+          "value": 58.8,
           "description": "Tốc độ tăng hoặc giảm CCU theo thời gian, tính theo phần trăm."
         },
         "difficulty_upgrade": {
-          "value": 95,
+          "value": 22,
           "description": "Mức độ game còn có thể mở rộng progression, nâng cấp, cấp độ và độ khó."
         },
         "content_amount": {
-          "value": 72,
+          "value": 17,
           "description": "Lượng nội dung hiện có trong game."
         },
         "future_update_potential": {
-          "value": 37,
+          "value": 61,
           "description": "Khả năng khai thác thêm nội dung cho các bản cập nhật trong tương lai."
         },
         "content_expandability": {
-          "value": 79,
+          "value": 53,
           "description": "Khả năng mở rộng game bằng map, item, mechanic, quest, boss hoặc hệ thống mới."
         },
         "replayability": {
-          "value": 26,
+          "value": 23,
           "description": "Khả năng khiến người chơi quay lại chơi nhiều lần."
         },
         "gameplay_depth": {
-          "value": 83,
+          "value": 41,
           "description": "Độ sâu và số lượng hệ thống gameplay mà game sở hữu."
         },
         "player_retention": {
-          "value": 83,
+          "value": 34,
           "description": "Khả năng giữ người chơi tiếp tục chơi sau khi đã tham gia game."
         },
         "monetization_potential": {
-          "value": 70,
+          "value": 34,
           "description": "Tiềm năng tạo doanh thu từ game."
         },
         "robux_spending_potential": {
-          "value": 41,
+          "value": 78,
           "description": "Khả năng khiến người chơi chi Robux thông qua gamepass, developer product, item hoặc tính năng trả phí."
         },
         "community_size": {
-          "value": 70,
+          "value": 67,
           "description": "Quy mô cộng đồng và lượng người chơi quan tâm đến game."
         },
         "community_activity": {
-          "value": 62,
+          "value": 27,
           "description": "Mức độ hoạt động của cộng đồng, Discord, social media và các nền tảng liên quan."
         },
         "developer_activity": {
-          "value": 34,
+          "value": 64,
           "description": "Mức độ hoạt động và khả năng tiếp tục phát triển game của developer."
         },
         "update_frequency": {
-          "value": 22,
+          "value": 33,
           "description": "Tần suất game được cập nhật nội dung hoặc sửa đổi."
         },
         "trend_potential": {
-          "value": 22,
+          "value": 45,
           "description": "Khả năng game hưởng lợi từ xu hướng Roblox hoặc thị trường game hiện tại."
         },
         "viral_potential": {
-          "value": 94,
+          "value": 69,
           "description": "Khả năng game trở nên viral và thu hút lượng lớn người chơi trong thời gian ngắn."
         },
         "long_term_potential": {
-          "value": 65,
+          "value": 41,
           "description": "Khả năng game duy trì người chơi và giá trị trong dài hạn."
         },
         "competition_level": {
-          "value": 55,
+          "value": 19,
           "description": "Mức độ cạnh tranh với các game khác cùng thể loại."
         },
         "market_demand": {
-          "value": 64,
+          "value": 66,
           "description": "Mức độ nhu cầu của thị trường đối với thể loại và gameplay của game."
         },
         "like_ratio": {
-          "value": 73.1,
+          "value": 90.6,
           "description": "Tỷ lệ Like so với tổng số Like và Dislike (%)."
         }
       },
       "overall_score": {
-        "value": 63.2,
+        "value": 46.7,
         "description": "Điểm tổng hợp cuối cùng dựa trên toàn bộ tiêu chí."
       }
     }
@@ -1093,102 +1093,211 @@
     "game": {
       "name": "Sky Islands Adventure",
       "robux_valuation": {
-        "min": 84649,
-        "max": 169299,
+        "min": 84000,
+        "max": 165000,
         "currency": "Robux",
         "description": "Khoảng Robux ước tính để định giá toàn bộ game."
       },
       "criteria": {
         "ccu_current": {
-          "value": 3600,
+          "value": 35507,
           "description": "Số người chơi đồng thời tại thời điểm đánh giá."
         },
         "ccu_peak": {
-          "value": 88459,
+          "value": 109879,
           "description": "CCU cao nhất mà game từng đạt được."
         },
         "ccu_average": {
-          "value": 6499,
+          "value": 1047,
           "description": "CCU trung bình trong một khoảng thời gian nhất định."
         },
         "ccu_growth_rate": {
-          "value": -10.5,
+          "value": 57.7,
           "description": "Tốc độ tăng hoặc giảm CCU theo thời gian, tính theo phần trăm."
         },
         "difficulty_upgrade": {
-          "value": 53,
+          "value": 40,
           "description": "Mức độ game còn có thể mở rộng progression, nâng cấp, cấp độ và độ khó."
         },
         "content_amount": {
-          "value": 23,
+          "value": 31,
           "description": "Lượng nội dung hiện có trong game."
         },
         "future_update_potential": {
-          "value": 41,
+          "value": 62,
           "description": "Khả năng khai thác thêm nội dung cho các bản cập nhật trong tương lai."
         },
         "content_expandability": {
-          "value": 34,
+          "value": 72,
           "description": "Khả năng mở rộng game bằng map, item, mechanic, quest, boss hoặc hệ thống mới."
         },
         "replayability": {
-          "value": 34,
+          "value": 71,
           "description": "Khả năng khiến người chơi quay lại chơi nhiều lần."
         },
         "gameplay_depth": {
-          "value": 78,
+          "value": 37,
           "description": "Độ sâu và số lượng hệ thống gameplay mà game sở hữu."
         },
         "player_retention": {
-          "value": 67,
+          "value": 61,
           "description": "Khả năng giữ người chơi tiếp tục chơi sau khi đã tham gia game."
         },
         "monetization_potential": {
-          "value": 27,
+          "value": 17,
           "description": "Tiềm năng tạo doanh thu từ game."
         },
         "robux_spending_potential": {
-          "value": 64,
+          "value": 31,
           "description": "Khả năng khiến người chơi chi Robux thông qua gamepass, developer product, item hoặc tính năng trả phí."
         },
         "community_size": {
-          "value": 33,
+          "value": 58,
           "description": "Quy mô cộng đồng và lượng người chơi quan tâm đến game."
         },
         "community_activity": {
-          "value": 45,
+          "value": 10,
           "description": "Mức độ hoạt động của cộng đồng, Discord, social media và các nền tảng liên quan."
         },
         "developer_activity": {
-          "value": 69,
+          "value": 59,
           "description": "Mức độ hoạt động và khả năng tiếp tục phát triển game của developer."
         },
         "update_frequency": {
-          "value": 41,
+          "value": 43,
           "description": "Tần suất game được cập nhật nội dung hoặc sửa đổi."
         },
         "trend_potential": {
-          "value": 19,
+          "value": 68,
           "description": "Khả năng game hưởng lợi từ xu hướng Roblox hoặc thị trường game hiện tại."
         },
         "viral_potential": {
-          "value": 66,
+          "value": 46,
           "description": "Khả năng game trở nên viral và thu hút lượng lớn người chơi trong thời gian ngắn."
         },
         "long_term_potential": {
-          "value": 80,
+          "value": 64,
           "description": "Khả năng game duy trì người chơi và giá trị trong dài hạn."
         },
         "competition_level": {
-          "value": 22,
+          "value": 81,
           "description": "Mức độ cạnh tranh với các game khác cùng thể loại."
         },
         "market_demand": {
-          "value": 16,
+          "value": 94,
           "description": "Mức độ nhu cầu của thị trường đối với thể loại và gameplay của game."
         },
         "like_ratio": {
-          "value": 83.7,
+          "value": 86.6,
+          "description": "Tỷ lệ Like so với tổng số Like và Dislike (%)."
+        }
+      },
+      "overall_score": {
+        "value": 55.6,
+        "description": "Điểm tổng hợp cuối cùng dựa trên toàn bộ tiêu chí."
+      }
+    }
+  },
+  {
+    "game": {
+      "name": "Dungeon Crawler X",
+      "robux_valuation": {
+        "min": 4496000,
+        "max": 6065000,
+        "currency": "Robux",
+        "description": "Khoảng Robux ước tính để định giá toàn bộ game."
+      },
+      "criteria": {
+        "ccu_current": {
+          "value": 38037,
+          "description": "Số người chơi đồng thời tại thời điểm đánh giá."
+        },
+        "ccu_peak": {
+          "value": 96734,
+          "description": "CCU cao nhất mà game từng đạt được."
+        },
+        "ccu_average": {
+          "value": 35613,
+          "description": "CCU trung bình trong một khoảng thời gian nhất định."
+        },
+        "ccu_growth_rate": {
+          "value": -10.4,
+          "description": "Tốc độ tăng hoặc giảm CCU theo thời gian, tính theo phần trăm."
+        },
+        "difficulty_upgrade": {
+          "value": 50,
+          "description": "Mức độ game còn có thể mở rộng progression, nâng cấp, cấp độ và độ khó."
+        },
+        "content_amount": {
+          "value": 17,
+          "description": "Lượng nội dung hiện có trong game."
+        },
+        "future_update_potential": {
+          "value": 16,
+          "description": "Khả năng khai thác thêm nội dung cho các bản cập nhật trong tương lai."
+        },
+        "content_expandability": {
+          "value": 84,
+          "description": "Khả năng mở rộng game bằng map, item, mechanic, quest, boss hoặc hệ thống mới."
+        },
+        "replayability": {
+          "value": 71,
+          "description": "Khả năng khiến người chơi quay lại chơi nhiều lần."
+        },
+        "gameplay_depth": {
+          "value": 74,
+          "description": "Độ sâu và số lượng hệ thống gameplay mà game sở hữu."
+        },
+        "player_retention": {
+          "value": 77,
+          "description": "Khả năng giữ người chơi tiếp tục chơi sau khi đã tham gia game."
+        },
+        "monetization_potential": {
+          "value": 30,
+          "description": "Tiềm năng tạo doanh thu từ game."
+        },
+        "robux_spending_potential": {
+          "value": 17,
+          "description": "Khả năng khiến người chơi chi Robux thông qua gamepass, developer product, item hoặc tính năng trả phí."
+        },
+        "community_size": {
+          "value": 75,
+          "description": "Quy mô cộng đồng và lượng người chơi quan tâm đến game."
+        },
+        "community_activity": {
+          "value": 20,
+          "description": "Mức độ hoạt động của cộng đồng, Discord, social media và các nền tảng liên quan."
+        },
+        "developer_activity": {
+          "value": 33,
+          "description": "Mức độ hoạt động và khả năng tiếp tục phát triển game của developer."
+        },
+        "update_frequency": {
+          "value": 18,
+          "description": "Tần suất game được cập nhật nội dung hoặc sửa đổi."
+        },
+        "trend_potential": {
+          "value": 86,
+          "description": "Khả năng game hưởng lợi từ xu hướng Roblox hoặc thị trường game hiện tại."
+        },
+        "viral_potential": {
+          "value": 18,
+          "description": "Khả năng game trở nên viral và thu hút lượng lớn người chơi trong thời gian ngắn."
+        },
+        "long_term_potential": {
+          "value": 40,
+          "description": "Khả năng game duy trì người chơi và giá trị trong dài hạn."
+        },
+        "competition_level": {
+          "value": 61,
+          "description": "Mức độ cạnh tranh với các game khác cùng thể loại."
+        },
+        "market_demand": {
+          "value": 25,
+          "description": "Mức độ nhu cầu của thị trường đối với thể loại và gameplay của game."
+        },
+        "like_ratio": {
+          "value": 96.4,
           "description": "Tỷ lệ Like so với tổng số Like và Dislike (%)."
         }
       },
@@ -1200,218 +1309,109 @@
   },
   {
     "game": {
-      "name": "Dungeon Crawler X",
-      "robux_valuation": {
-        "min": 152055,
-        "max": 304111,
-        "currency": "Robux",
-        "description": "Khoảng Robux ước tính để định giá toàn bộ game."
-      },
-      "criteria": {
-        "ccu_current": {
-          "value": 1017,
-          "description": "Số người chơi đồng thời tại thời điểm đánh giá."
-        },
-        "ccu_peak": {
-          "value": 12424,
-          "description": "CCU cao nhất mà game từng đạt được."
-        },
-        "ccu_average": {
-          "value": 15541,
-          "description": "CCU trung bình trong một khoảng thời gian nhất định."
-        },
-        "ccu_growth_rate": {
-          "value": -2.5,
-          "description": "Tốc độ tăng hoặc giảm CCU theo thời gian, tính theo phần trăm."
-        },
-        "difficulty_upgrade": {
-          "value": 72,
-          "description": "Mức độ game còn có thể mở rộng progression, nâng cấp, cấp độ và độ khó."
-        },
-        "content_amount": {
-          "value": 71,
-          "description": "Lượng nội dung hiện có trong game."
-        },
-        "future_update_potential": {
-          "value": 37,
-          "description": "Khả năng khai thác thêm nội dung cho các bản cập nhật trong tương lai."
-        },
-        "content_expandability": {
-          "value": 61,
-          "description": "Khả năng mở rộng game bằng map, item, mechanic, quest, boss hoặc hệ thống mới."
-        },
-        "replayability": {
-          "value": 17,
-          "description": "Khả năng khiến người chơi quay lại chơi nhiều lần."
-        },
-        "gameplay_depth": {
-          "value": 31,
-          "description": "Độ sâu và số lượng hệ thống gameplay mà game sở hữu."
-        },
-        "player_retention": {
-          "value": 58,
-          "description": "Khả năng giữ người chơi tiếp tục chơi sau khi đã tham gia game."
-        },
-        "monetization_potential": {
-          "value": 10,
-          "description": "Tiềm năng tạo doanh thu từ game."
-        },
-        "robux_spending_potential": {
-          "value": 59,
-          "description": "Khả năng khiến người chơi chi Robux thông qua gamepass, developer product, item hoặc tính năng trả phí."
-        },
-        "community_size": {
-          "value": 43,
-          "description": "Quy mô cộng đồng và lượng người chơi quan tâm đến game."
-        },
-        "community_activity": {
-          "value": 68,
-          "description": "Mức độ hoạt động của cộng đồng, Discord, social media và các nền tảng liên quan."
-        },
-        "developer_activity": {
-          "value": 46,
-          "description": "Mức độ hoạt động và khả năng tiếp tục phát triển game của developer."
-        },
-        "update_frequency": {
-          "value": 64,
-          "description": "Tần suất game được cập nhật nội dung hoặc sửa đổi."
-        },
-        "trend_potential": {
-          "value": 81,
-          "description": "Khả năng game hưởng lợi từ xu hướng Roblox hoặc thị trường game hiện tại."
-        },
-        "viral_potential": {
-          "value": 94,
-          "description": "Khả năng game trở nên viral và thu hút lượng lớn người chơi trong thời gian ngắn."
-        },
-        "long_term_potential": {
-          "value": 72,
-          "description": "Khả năng game duy trì người chơi và giá trị trong dài hạn."
-        },
-        "competition_level": {
-          "value": 29,
-          "description": "Mức độ cạnh tranh với các game khác cùng thể loại."
-        },
-        "market_demand": {
-          "value": 34,
-          "description": "Mức độ nhu cầu của thị trường đối với thể loại và gameplay của game."
-        },
-        "like_ratio": {
-          "value": 68.1,
-          "description": "Tỷ lệ Like so với tổng số Like và Dislike (%)."
-        }
-      },
-      "overall_score": {
-        "value": 55.7,
-        "description": "Điểm tổng hợp cuối cùng dựa trên toàn bộ tiêu chí."
-      }
-    }
-  },
-  {
-    "game": {
       "name": "Racing Legends 2",
       "robux_valuation": {
-        "min": 93829,
-        "max": 187658,
+        "min": 10973000,
+        "max": 19835000,
         "currency": "Robux",
         "description": "Khoảng Robux ước tính để định giá toàn bộ game."
       },
       "criteria": {
         "ccu_current": {
-          "value": 38007,
+          "value": 5452,
           "description": "Số người chơi đồng thời tại thời điểm đánh giá."
         },
         "ccu_peak": {
-          "value": 71266,
+          "value": 55248,
           "description": "CCU cao nhất mà game từng đạt được."
         },
         "ccu_average": {
-          "value": 4044,
+          "value": 43161,
           "description": "CCU trung bình trong một khoảng thời gian nhất định."
         },
         "ccu_growth_rate": {
-          "value": 41.1,
+          "value": 28.8,
           "description": "Tốc độ tăng hoặc giảm CCU theo thời gian, tính theo phần trăm."
         },
         "difficulty_upgrade": {
-          "value": 17,
+          "value": 76,
           "description": "Mức độ game còn có thể mở rộng progression, nâng cấp, cấp độ và độ khó."
         },
         "content_amount": {
-          "value": 16,
+          "value": 50,
           "description": "Lượng nội dung hiện có trong game."
         },
         "future_update_potential": {
-          "value": 84,
+          "value": 43,
           "description": "Khả năng khai thác thêm nội dung cho các bản cập nhật trong tương lai."
         },
         "content_expandability": {
-          "value": 71,
+          "value": 36,
           "description": "Khả năng mở rộng game bằng map, item, mechanic, quest, boss hoặc hệ thống mới."
         },
         "replayability": {
-          "value": 74,
+          "value": 95,
           "description": "Khả năng khiến người chơi quay lại chơi nhiều lần."
         },
         "gameplay_depth": {
-          "value": 77,
+          "value": 50,
           "description": "Độ sâu và số lượng hệ thống gameplay mà game sở hữu."
         },
         "player_retention": {
-          "value": 30,
+          "value": 40,
           "description": "Khả năng giữ người chơi tiếp tục chơi sau khi đã tham gia game."
         },
         "monetization_potential": {
-          "value": 17,
+          "value": 43,
           "description": "Tiềm năng tạo doanh thu từ game."
         },
         "robux_spending_potential": {
-          "value": 75,
+          "value": 60,
           "description": "Khả năng khiến người chơi chi Robux thông qua gamepass, developer product, item hoặc tính năng trả phí."
         },
         "community_size": {
-          "value": 20,
+          "value": 26,
           "description": "Quy mô cộng đồng và lượng người chơi quan tâm đến game."
         },
         "community_activity": {
-          "value": 33,
+          "value": 95,
           "description": "Mức độ hoạt động của cộng đồng, Discord, social media và các nền tảng liên quan."
         },
         "developer_activity": {
-          "value": 18,
+          "value": 92,
           "description": "Mức độ hoạt động và khả năng tiếp tục phát triển game của developer."
         },
         "update_frequency": {
-          "value": 86,
+          "value": 48,
           "description": "Tần suất game được cập nhật nội dung hoặc sửa đổi."
         },
         "trend_potential": {
-          "value": 18,
+          "value": 68,
           "description": "Khả năng game hưởng lợi từ xu hướng Roblox hoặc thị trường game hiện tại."
         },
         "viral_potential": {
-          "value": 40,
+          "value": 50,
           "description": "Khả năng game trở nên viral và thu hút lượng lớn người chơi trong thời gian ngắn."
         },
         "long_term_potential": {
-          "value": 61,
+          "value": 19,
           "description": "Khả năng game duy trì người chơi và giá trị trong dài hạn."
         },
         "competition_level": {
-          "value": 25,
+          "value": 11,
           "description": "Mức độ cạnh tranh với các game khác cùng thể loại."
         },
         "market_demand": {
-          "value": 82,
+          "value": 68,
           "description": "Mức độ nhu cầu của thị trường đối với thể loại và gameplay của game."
         },
         "like_ratio": {
-          "value": 65.8,
+          "value": 82.3,
           "description": "Tỷ lệ Like so với tổng số Like và Dislike (%)."
         }
       },
       "overall_score": {
-        "value": 49.6,
+        "value": 57.1,
         "description": "Điểm tổng hợp cuối cùng dựa trên toàn bộ tiêu chí."
       }
     }
@@ -1420,46 +1420,591 @@
     "game": {
       "name": "Farm Life Vietnam",
       "robux_valuation": {
-        "min": 161919,
-        "max": 323839,
+        "min": 4710000,
+        "max": 6395000,
         "currency": "Robux",
         "description": "Khoảng Robux ước tính để định giá toàn bộ game."
       },
       "criteria": {
         "ccu_current": {
-          "value": 40641,
+          "value": 33233,
           "description": "Số người chơi đồng thời tại thời điểm đánh giá."
         },
         "ccu_peak": {
-          "value": 10945,
+          "value": 35060,
           "description": "CCU cao nhất mà game từng đạt được."
         },
         "ccu_average": {
-          "value": 27524,
+          "value": 8760,
           "description": "CCU trung bình trong một khoảng thời gian nhất định."
         },
         "ccu_growth_rate": {
-          "value": 34.3,
+          "value": 55.0,
           "description": "Tốc độ tăng hoặc giảm CCU theo thời gian, tính theo phần trăm."
         },
         "difficulty_upgrade": {
-          "value": 82,
+          "value": 18,
           "description": "Mức độ game còn có thể mở rộng progression, nâng cấp, cấp độ và độ khó."
         },
         "content_amount": {
-          "value": 76,
+          "value": 41,
           "description": "Lượng nội dung hiện có trong game."
         },
         "future_update_potential": {
-          "value": 50,
+          "value": 57,
           "description": "Khả năng khai thác thêm nội dung cho các bản cập nhật trong tương lai."
         },
         "content_expandability": {
-          "value": 43,
+          "value": 46,
           "description": "Khả năng mở rộng game bằng map, item, mechanic, quest, boss hoặc hệ thống mới."
         },
         "replayability": {
+          "value": 30,
+          "description": "Khả năng khiến người chơi quay lại chơi nhiều lần."
+        },
+        "gameplay_depth": {
+          "value": 66,
+          "description": "Độ sâu và số lượng hệ thống gameplay mà game sở hữu."
+        },
+        "player_retention": {
+          "value": 79,
+          "description": "Khả năng giữ người chơi tiếp tục chơi sau khi đã tham gia game."
+        },
+        "monetization_potential": {
+          "value": 48,
+          "description": "Tiềm năng tạo doanh thu từ game."
+        },
+        "robux_spending_potential": {
+          "value": 88,
+          "description": "Khả năng khiến người chơi chi Robux thông qua gamepass, developer product, item hoặc tính năng trả phí."
+        },
+        "community_size": {
+          "value": 93,
+          "description": "Quy mô cộng đồng và lượng người chơi quan tâm đến game."
+        },
+        "community_activity": {
+          "value": 77,
+          "description": "Mức độ hoạt động của cộng đồng, Discord, social media và các nền tảng liên quan."
+        },
+        "developer_activity": {
+          "value": 11,
+          "description": "Mức độ hoạt động và khả năng tiếp tục phát triển game của developer."
+        },
+        "update_frequency": {
+          "value": 95,
+          "description": "Tần suất game được cập nhật nội dung hoặc sửa đổi."
+        },
+        "trend_potential": {
+          "value": 80,
+          "description": "Khả năng game hưởng lợi từ xu hướng Roblox hoặc thị trường game hiện tại."
+        },
+        "viral_potential": {
+          "value": 48,
+          "description": "Khả năng game trở nên viral và thu hút lượng lớn người chơi trong thời gian ngắn."
+        },
+        "long_term_potential": {
+          "value": 94,
+          "description": "Khả năng game duy trì người chơi và giá trị trong dài hạn."
+        },
+        "competition_level": {
+          "value": 23,
+          "description": "Mức độ cạnh tranh với các game khác cùng thể loại."
+        },
+        "market_demand": {
+          "value": 27,
+          "description": "Mức độ nhu cầu của thị trường đối với thể loại và gameplay của game."
+        },
+        "like_ratio": {
+          "value": 66.6,
+          "description": "Tỷ lệ Like so với tổng số Like và Dislike (%)."
+        }
+      },
+      "overall_score": {
+        "value": 60.1,
+        "description": "Điểm tổng hợp cuối cùng dựa trên toàn bộ tiêu chí."
+      }
+    }
+  },
+  {
+    "game": {
+      "name": "Tower Defense Chaos",
+      "robux_valuation": {
+        "min": 3431000,
+        "max": 4740000,
+        "currency": "Robux",
+        "description": "Khoảng Robux ước tính để định giá toàn bộ game."
+      },
+      "criteria": {
+        "ccu_current": {
+          "value": 18545,
+          "description": "Số người chơi đồng thời tại thời điểm đánh giá."
+        },
+        "ccu_peak": {
+          "value": 79576,
+          "description": "CCU cao nhất mà game từng đạt được."
+        },
+        "ccu_average": {
+          "value": 13883,
+          "description": "CCU trung bình trong một khoảng thời gian nhất định."
+        },
+        "ccu_growth_rate": {
+          "value": 38.8,
+          "description": "Tốc độ tăng hoặc giảm CCU theo thời gian, tính theo phần trăm."
+        },
+        "difficulty_upgrade": {
           "value": 36,
+          "description": "Mức độ game còn có thể mở rộng progression, nâng cấp, cấp độ và độ khó."
+        },
+        "content_amount": {
+          "value": 91,
+          "description": "Lượng nội dung hiện có trong game."
+        },
+        "future_update_potential": {
+          "value": 43,
+          "description": "Khả năng khai thác thêm nội dung cho các bản cập nhật trong tương lai."
+        },
+        "content_expandability": {
+          "value": 74,
+          "description": "Khả năng mở rộng game bằng map, item, mechanic, quest, boss hoặc hệ thống mới."
+        },
+        "replayability": {
+          "value": 72,
+          "description": "Khả năng khiến người chơi quay lại chơi nhiều lần."
+        },
+        "gameplay_depth": {
+          "value": 42,
+          "description": "Độ sâu và số lượng hệ thống gameplay mà game sở hữu."
+        },
+        "player_retention": {
+          "value": 16,
+          "description": "Khả năng giữ người chơi tiếp tục chơi sau khi đã tham gia game."
+        },
+        "monetization_potential": {
+          "value": 21,
+          "description": "Tiềm năng tạo doanh thu từ game."
+        },
+        "robux_spending_potential": {
+          "value": 91,
+          "description": "Khả năng khiến người chơi chi Robux thông qua gamepass, developer product, item hoặc tính năng trả phí."
+        },
+        "community_size": {
+          "value": 64,
+          "description": "Quy mô cộng đồng và lượng người chơi quan tâm đến game."
+        },
+        "community_activity": {
+          "value": 45,
+          "description": "Mức độ hoạt động của cộng đồng, Discord, social media và các nền tảng liên quan."
+        },
+        "developer_activity": {
+          "value": 15,
+          "description": "Mức độ hoạt động và khả năng tiếp tục phát triển game của developer."
+        },
+        "update_frequency": {
+          "value": 10,
+          "description": "Tần suất game được cập nhật nội dung hoặc sửa đổi."
+        },
+        "trend_potential": {
+          "value": 52,
+          "description": "Khả năng game hưởng lợi từ xu hướng Roblox hoặc thị trường game hiện tại."
+        },
+        "viral_potential": {
+          "value": 26,
+          "description": "Khả năng game trở nên viral và thu hút lượng lớn người chơi trong thời gian ngắn."
+        },
+        "long_term_potential": {
+          "value": 91,
+          "description": "Khả năng game duy trì người chơi và giá trị trong dài hạn."
+        },
+        "competition_level": {
+          "value": 43,
+          "description": "Mức độ cạnh tranh với các game khác cùng thể loại."
+        },
+        "market_demand": {
+          "value": 30,
+          "description": "Mức độ nhu cầu của thị trường đối với thể loại và gameplay của game."
+        },
+        "like_ratio": {
+          "value": 87.6,
+          "description": "Tỷ lệ Like so với tổng số Like và Dislike (%)."
+        }
+      },
+      "overall_score": {
+        "value": 50.7,
+        "description": "Điểm tổng hợp cuối cùng dựa trên toàn bộ tiêu chí."
+      }
+    }
+  },
+  {
+    "game": {
+      "name": "Ninja Path Saga",
+      "robux_valuation": {
+        "min": 6671000,
+        "max": 11471000,
+        "currency": "Robux",
+        "description": "Khoảng Robux ước tính để định giá toàn bộ game."
+      },
+      "criteria": {
+        "ccu_current": {
+          "value": 5011,
+          "description": "Số người chơi đồng thời tại thời điểm đánh giá."
+        },
+        "ccu_peak": {
+          "value": 116050,
+          "description": "CCU cao nhất mà game từng đạt được."
+        },
+        "ccu_average": {
+          "value": 45366,
+          "description": "CCU trung bình trong một khoảng thời gian nhất định."
+        },
+        "ccu_growth_rate": {
+          "value": 52.8,
+          "description": "Tốc độ tăng hoặc giảm CCU theo thời gian, tính theo phần trăm."
+        },
+        "difficulty_upgrade": {
+          "value": 79,
+          "description": "Mức độ game còn có thể mở rộng progression, nâng cấp, cấp độ và độ khó."
+        },
+        "content_amount": {
+          "value": 14,
+          "description": "Lượng nội dung hiện có trong game."
+        },
+        "future_update_potential": {
+          "value": 57,
+          "description": "Khả năng khai thác thêm nội dung cho các bản cập nhật trong tương lai."
+        },
+        "content_expandability": {
+          "value": 84,
+          "description": "Khả năng mở rộng game bằng map, item, mechanic, quest, boss hoặc hệ thống mới."
+        },
+        "replayability": {
+          "value": 80,
+          "description": "Khả năng khiến người chơi quay lại chơi nhiều lần."
+        },
+        "gameplay_depth": {
+          "value": 28,
+          "description": "Độ sâu và số lượng hệ thống gameplay mà game sở hữu."
+        },
+        "player_retention": {
+          "value": 65,
+          "description": "Khả năng giữ người chơi tiếp tục chơi sau khi đã tham gia game."
+        },
+        "monetization_potential": {
+          "value": 26,
+          "description": "Tiềm năng tạo doanh thu từ game."
+        },
+        "robux_spending_potential": {
+          "value": 15,
+          "description": "Khả năng khiến người chơi chi Robux thông qua gamepass, developer product, item hoặc tính năng trả phí."
+        },
+        "community_size": {
+          "value": 49,
+          "description": "Quy mô cộng đồng và lượng người chơi quan tâm đến game."
+        },
+        "community_activity": {
+          "value": 56,
+          "description": "Mức độ hoạt động của cộng đồng, Discord, social media và các nền tảng liên quan."
+        },
+        "developer_activity": {
+          "value": 15,
+          "description": "Mức độ hoạt động và khả năng tiếp tục phát triển game của developer."
+        },
+        "update_frequency": {
+          "value": 55,
+          "description": "Tần suất game được cập nhật nội dung hoặc sửa đổi."
+        },
+        "trend_potential": {
+          "value": 36,
+          "description": "Khả năng game hưởng lợi từ xu hướng Roblox hoặc thị trường game hiện tại."
+        },
+        "viral_potential": {
+          "value": 41,
+          "description": "Khả năng game trở nên viral và thu hút lượng lớn người chơi trong thời gian ngắn."
+        },
+        "long_term_potential": {
+          "value": 95,
+          "description": "Khả năng game duy trì người chơi và giá trị trong dài hạn."
+        },
+        "competition_level": {
+          "value": 23,
+          "description": "Mức độ cạnh tranh với các game khác cùng thể loại."
+        },
+        "market_demand": {
+          "value": 55,
+          "description": "Mức độ nhu cầu của thị trường đối với thể loại và gameplay của game."
+        },
+        "like_ratio": {
+          "value": 89.3,
+          "description": "Tỷ lệ Like so với tổng số Like và Dislike (%)."
+        }
+      },
+      "overall_score": {
+        "value": 51.4,
+        "description": "Điểm tổng hợp cuối cùng dựa trên toàn bộ tiêu chí."
+      }
+    }
+  },
+  {
+    "game": {
+      "name": "Space Miners United",
+      "robux_valuation": {
+        "min": 2574000,
+        "max": 3755000,
+        "currency": "Robux",
+        "description": "Khoảng Robux ước tính để định giá toàn bộ game."
+      },
+      "criteria": {
+        "ccu_current": {
+          "value": 10208,
+          "description": "Số người chơi đồng thời tại thời điểm đánh giá."
+        },
+        "ccu_peak": {
+          "value": 31329,
+          "description": "CCU cao nhất mà game từng đạt được."
+        },
+        "ccu_average": {
+          "value": 10729,
+          "description": "CCU trung bình trong một khoảng thời gian nhất định."
+        },
+        "ccu_growth_rate": {
+          "value": 58.2,
+          "description": "Tốc độ tăng hoặc giảm CCU theo thời gian, tính theo phần trăm."
+        },
+        "difficulty_upgrade": {
+          "value": 32,
+          "description": "Mức độ game còn có thể mở rộng progression, nâng cấp, cấp độ và độ khó."
+        },
+        "content_amount": {
+          "value": 62,
+          "description": "Lượng nội dung hiện có trong game."
+        },
+        "future_update_potential": {
+          "value": 13,
+          "description": "Khả năng khai thác thêm nội dung cho các bản cập nhật trong tương lai."
+        },
+        "content_expandability": {
+          "value": 32,
+          "description": "Khả năng mở rộng game bằng map, item, mechanic, quest, boss hoặc hệ thống mới."
+        },
+        "replayability": {
+          "value": 52,
+          "description": "Khả năng khiến người chơi quay lại chơi nhiều lần."
+        },
+        "gameplay_depth": {
+          "value": 62,
+          "description": "Độ sâu và số lượng hệ thống gameplay mà game sở hữu."
+        },
+        "player_retention": {
+          "value": 95,
+          "description": "Khả năng giữ người chơi tiếp tục chơi sau khi đã tham gia game."
+        },
+        "monetization_potential": {
+          "value": 41,
+          "description": "Tiềm năng tạo doanh thu từ game."
+        },
+        "robux_spending_potential": {
+          "value": 44,
+          "description": "Khả năng khiến người chơi chi Robux thông qua gamepass, developer product, item hoặc tính năng trả phí."
+        },
+        "community_size": {
+          "value": 30,
+          "description": "Quy mô cộng đồng và lượng người chơi quan tâm đến game."
+        },
+        "community_activity": {
+          "value": 23,
+          "description": "Mức độ hoạt động của cộng đồng, Discord, social media và các nền tảng liên quan."
+        },
+        "developer_activity": {
+          "value": 58,
+          "description": "Mức độ hoạt động và khả năng tiếp tục phát triển game của developer."
+        },
+        "update_frequency": {
+          "value": 14,
+          "description": "Tần suất game được cập nhật nội dung hoặc sửa đổi."
+        },
+        "trend_potential": {
+          "value": 70,
+          "description": "Khả năng game hưởng lợi từ xu hướng Roblox hoặc thị trường game hiện tại."
+        },
+        "viral_potential": {
+          "value": 38,
+          "description": "Khả năng game trở nên viral và thu hút lượng lớn người chơi trong thời gian ngắn."
+        },
+        "long_term_potential": {
+          "value": 35,
+          "description": "Khả năng game duy trì người chơi và giá trị trong dài hạn."
+        },
+        "competition_level": {
+          "value": 68,
+          "description": "Mức độ cạnh tranh với các game khác cùng thể loại."
+        },
+        "market_demand": {
+          "value": 54,
+          "description": "Mức độ nhu cầu của thị trường đối với thể loại và gameplay của game."
+        },
+        "like_ratio": {
+          "value": 68.4,
+          "description": "Tỷ lệ Like so với tổng số Like và Dislike (%)."
+        }
+      },
+      "overall_score": {
+        "value": 48.4,
+        "description": "Điểm tổng hợp cuối cùng dựa trên toàn bộ tiêu chí."
+      }
+    }
+  },
+  {
+    "game": {
+      "name": "Horror Hospital",
+      "robux_valuation": {
+        "min": 4066000,
+        "max": 7735000,
+        "currency": "Robux",
+        "description": "Khoảng Robux ước tính để định giá toàn bộ game."
+      },
+      "criteria": {
+        "ccu_current": {
+          "value": 12736,
+          "description": "Số người chơi đồng thời tại thời điểm đánh giá."
+        },
+        "ccu_peak": {
+          "value": 52527,
+          "description": "CCU cao nhất mà game từng đạt được."
+        },
+        "ccu_average": {
+          "value": 21592,
+          "description": "CCU trung bình trong một khoảng thời gian nhất định."
+        },
+        "ccu_growth_rate": {
+          "value": 5.9,
+          "description": "Tốc độ tăng hoặc giảm CCU theo thời gian, tính theo phần trăm."
+        },
+        "difficulty_upgrade": {
+          "value": 18,
+          "description": "Mức độ game còn có thể mở rộng progression, nâng cấp, cấp độ và độ khó."
+        },
+        "content_amount": {
+          "value": 45,
+          "description": "Lượng nội dung hiện có trong game."
+        },
+        "future_update_potential": {
+          "value": 54,
+          "description": "Khả năng khai thác thêm nội dung cho các bản cập nhật trong tương lai."
+        },
+        "content_expandability": {
+          "value": 92,
+          "description": "Khả năng mở rộng game bằng map, item, mechanic, quest, boss hoặc hệ thống mới."
+        },
+        "replayability": {
+          "value": 75,
+          "description": "Khả năng khiến người chơi quay lại chơi nhiều lần."
+        },
+        "gameplay_depth": {
+          "value": 61,
+          "description": "Độ sâu và số lượng hệ thống gameplay mà game sở hữu."
+        },
+        "player_retention": {
+          "value": 78,
+          "description": "Khả năng giữ người chơi tiếp tục chơi sau khi đã tham gia game."
+        },
+        "monetization_potential": {
+          "value": 52,
+          "description": "Tiềm năng tạo doanh thu từ game."
+        },
+        "robux_spending_potential": {
+          "value": 13,
+          "description": "Khả năng khiến người chơi chi Robux thông qua gamepass, developer product, item hoặc tính năng trả phí."
+        },
+        "community_size": {
+          "value": 24,
+          "description": "Quy mô cộng đồng và lượng người chơi quan tâm đến game."
+        },
+        "community_activity": {
+          "value": 43,
+          "description": "Mức độ hoạt động của cộng đồng, Discord, social media và các nền tảng liên quan."
+        },
+        "developer_activity": {
+          "value": 32,
+          "description": "Mức độ hoạt động và khả năng tiếp tục phát triển game của developer."
+        },
+        "update_frequency": {
+          "value": 84,
+          "description": "Tần suất game được cập nhật nội dung hoặc sửa đổi."
+        },
+        "trend_potential": {
+          "value": 43,
+          "description": "Khả năng game hưởng lợi từ xu hướng Roblox hoặc thị trường game hiện tại."
+        },
+        "viral_potential": {
+          "value": 14,
+          "description": "Khả năng game trở nên viral và thu hút lượng lớn người chơi trong thời gian ngắn."
+        },
+        "long_term_potential": {
+          "value": 23,
+          "description": "Khả năng game duy trì người chơi và giá trị trong dài hạn."
+        },
+        "competition_level": {
+          "value": 86,
+          "description": "Mức độ cạnh tranh với các game khác cùng thể loại."
+        },
+        "market_demand": {
+          "value": 65,
+          "description": "Mức độ nhu cầu của thị trường đối với thể loại và gameplay của game."
+        },
+        "like_ratio": {
+          "value": 70.2,
+          "description": "Tỷ lệ Like so với tổng số Like và Dislike (%)."
+        }
+      },
+      "overall_score": {
+        "value": 53.1,
+        "description": "Điểm tổng hợp cuối cùng dựa trên toàn bộ tiêu chí."
+      }
+    }
+  },
+  {
+    "game": {
+      "name": "Pirate Voyage Online",
+      "robux_valuation": {
+        "min": 11239000,
+        "max": 17364000,
+        "currency": "Robux",
+        "description": "Khoảng Robux ước tính để định giá toàn bộ game."
+      },
+      "criteria": {
+        "ccu_current": {
+          "value": 7658,
+          "description": "Số người chơi đồng thời tại thời điểm đánh giá."
+        },
+        "ccu_peak": {
+          "value": 50788,
+          "description": "CCU cao nhất mà game từng đạt được."
+        },
+        "ccu_average": {
+          "value": 37867,
+          "description": "CCU trung bình trong một khoảng thời gian nhất định."
+        },
+        "ccu_growth_rate": {
+          "value": -0.7,
+          "description": "Tốc độ tăng hoặc giảm CCU theo thời gian, tính theo phần trăm."
+        },
+        "difficulty_upgrade": {
+          "value": 15,
+          "description": "Mức độ game còn có thể mở rộng progression, nâng cấp, cấp độ và độ khó."
+        },
+        "content_amount": {
+          "value": 65,
+          "description": "Lượng nội dung hiện có trong game."
+        },
+        "future_update_potential": {
+          "value": 10,
+          "description": "Khả năng khai thác thêm nội dung cho các bản cập nhật trong tương lai."
+        },
+        "content_expandability": {
+          "value": 76,
+          "description": "Khả năng mở rộng game bằng map, item, mechanic, quest, boss hoặc hệ thống mới."
+        },
+        "replayability": {
+          "value": 78,
           "description": "Khả năng khiến người chơi quay lại chơi nhiều lần."
         },
         "gameplay_depth": {
@@ -1467,7 +2012,225 @@
           "description": "Độ sâu và số lượng hệ thống gameplay mà game sở hữu."
         },
         "player_retention": {
+          "value": 35,
+          "description": "Khả năng giữ người chơi tiếp tục chơi sau khi đã tham gia game."
+        },
+        "monetization_potential": {
+          "value": 56,
+          "description": "Tiềm năng tạo doanh thu từ game."
+        },
+        "robux_spending_potential": {
+          "value": 65,
+          "description": "Khả năng khiến người chơi chi Robux thông qua gamepass, developer product, item hoặc tính năng trả phí."
+        },
+        "community_size": {
+          "value": 18,
+          "description": "Quy mô cộng đồng và lượng người chơi quan tâm đến game."
+        },
+        "community_activity": {
+          "value": 95,
+          "description": "Mức độ hoạt động của cộng đồng, Discord, social media và các nền tảng liên quan."
+        },
+        "developer_activity": {
+          "value": 52,
+          "description": "Mức độ hoạt động và khả năng tiếp tục phát triển game của developer."
+        },
+        "update_frequency": {
+          "value": 89,
+          "description": "Tần suất game được cập nhật nội dung hoặc sửa đổi."
+        },
+        "trend_potential": {
           "value": 50,
+          "description": "Khả năng game hưởng lợi từ xu hướng Roblox hoặc thị trường game hiện tại."
+        },
+        "viral_potential": {
+          "value": 94,
+          "description": "Khả năng game trở nên viral và thu hút lượng lớn người chơi trong thời gian ngắn."
+        },
+        "long_term_potential": {
+          "value": 25,
+          "description": "Khả năng game duy trì người chơi và giá trị trong dài hạn."
+        },
+        "competition_level": {
+          "value": 48,
+          "description": "Mức độ cạnh tranh với các game khác cùng thể loại."
+        },
+        "market_demand": {
+          "value": 74,
+          "description": "Mức độ nhu cầu của thị trường đối với thể loại và gameplay của game."
+        },
+        "like_ratio": {
+          "value": 68.6,
+          "description": "Tỷ lệ Like so với tổng số Like và Dislike (%)."
+        }
+      },
+      "overall_score": {
+        "value": 61.2,
+        "description": "Điểm tổng hợp cuối cùng dựa trên toàn bộ tiêu chí."
+      }
+    }
+  },
+  {
+    "game": {
+      "name": "Sword Ascendant",
+      "robux_valuation": {
+        "min": 2981000,
+        "max": 5491000,
+        "currency": "Robux",
+        "description": "Khoảng Robux ước tính để định giá toàn bộ game."
+      },
+      "criteria": {
+        "ccu_current": {
+          "value": 8421,
+          "description": "Số người chơi đồng thời tại thời điểm đánh giá."
+        },
+        "ccu_peak": {
+          "value": 25444,
+          "description": "CCU cao nhất mà game từng đạt được."
+        },
+        "ccu_average": {
+          "value": 27634,
+          "description": "CCU trung bình trong một khoảng thời gian nhất định."
+        },
+        "ccu_growth_rate": {
+          "value": 34.9,
+          "description": "Tốc độ tăng hoặc giảm CCU theo thời gian, tính theo phần trăm."
+        },
+        "difficulty_upgrade": {
+          "value": 58,
+          "description": "Mức độ game còn có thể mở rộng progression, nâng cấp, cấp độ và độ khó."
+        },
+        "content_amount": {
+          "value": 32,
+          "description": "Lượng nội dung hiện có trong game."
+        },
+        "future_update_potential": {
+          "value": 88,
+          "description": "Khả năng khai thác thêm nội dung cho các bản cập nhật trong tương lai."
+        },
+        "content_expandability": {
+          "value": 82,
+          "description": "Khả năng mở rộng game bằng map, item, mechanic, quest, boss hoặc hệ thống mới."
+        },
+        "replayability": {
+          "value": 48,
+          "description": "Khả năng khiến người chơi quay lại chơi nhiều lần."
+        },
+        "gameplay_depth": {
+          "value": 61,
+          "description": "Độ sâu và số lượng hệ thống gameplay mà game sở hữu."
+        },
+        "player_retention": {
+          "value": 80,
+          "description": "Khả năng giữ người chơi tiếp tục chơi sau khi đã tham gia game."
+        },
+        "monetization_potential": {
+          "value": 10,
+          "description": "Tiềm năng tạo doanh thu từ game."
+        },
+        "robux_spending_potential": {
+          "value": 48,
+          "description": "Khả năng khiến người chơi chi Robux thông qua gamepass, developer product, item hoặc tính năng trả phí."
+        },
+        "community_size": {
+          "value": 46,
+          "description": "Quy mô cộng đồng và lượng người chơi quan tâm đến game."
+        },
+        "community_activity": {
+          "value": 36,
+          "description": "Mức độ hoạt động của cộng đồng, Discord, social media và các nền tảng liên quan."
+        },
+        "developer_activity": {
+          "value": 65,
+          "description": "Mức độ hoạt động và khả năng tiếp tục phát triển game của developer."
+        },
+        "update_frequency": {
+          "value": 84,
+          "description": "Tần suất game được cập nhật nội dung hoặc sửa đổi."
+        },
+        "trend_potential": {
+          "value": 87,
+          "description": "Khả năng game hưởng lợi từ xu hướng Roblox hoặc thị trường game hiện tại."
+        },
+        "viral_potential": {
+          "value": 93,
+          "description": "Khả năng game trở nên viral và thu hút lượng lớn người chơi trong thời gian ngắn."
+        },
+        "long_term_potential": {
+          "value": 51,
+          "description": "Khả năng game duy trì người chơi và giá trị trong dài hạn."
+        },
+        "competition_level": {
+          "value": 69,
+          "description": "Mức độ cạnh tranh với các game khác cùng thể loại."
+        },
+        "market_demand": {
+          "value": 66,
+          "description": "Mức độ nhu cầu của thị trường đối với thể loại và gameplay của game."
+        },
+        "like_ratio": {
+          "value": 74.5,
+          "description": "Tỷ lệ Like so với tổng số Like và Dislike (%)."
+        }
+      },
+      "overall_score": {
+        "value": 64.9,
+        "description": "Điểm tổng hợp cuối cùng dựa trên toàn bộ tiêu chí."
+      }
+    }
+  },
+  {
+    "game": {
+      "name": "Basketball Stars League",
+      "robux_valuation": {
+        "min": 3427000,
+        "max": 5835000,
+        "currency": "Robux",
+        "description": "Khoảng Robux ước tính để định giá toàn bộ game."
+      },
+      "criteria": {
+        "ccu_current": {
+          "value": 52248,
+          "description": "Số người chơi đồng thời tại thời điểm đánh giá."
+        },
+        "ccu_peak": {
+          "value": 96763,
+          "description": "CCU cao nhất mà game từng đạt được."
+        },
+        "ccu_average": {
+          "value": 11200,
+          "description": "CCU trung bình trong một khoảng thời gian nhất định."
+        },
+        "ccu_growth_rate": {
+          "value": 34.4,
+          "description": "Tốc độ tăng hoặc giảm CCU theo thời gian, tính theo phần trăm."
+        },
+        "difficulty_upgrade": {
+          "value": 46,
+          "description": "Mức độ game còn có thể mở rộng progression, nâng cấp, cấp độ và độ khó."
+        },
+        "content_amount": {
+          "value": 75,
+          "description": "Lượng nội dung hiện có trong game."
+        },
+        "future_update_potential": {
+          "value": 94,
+          "description": "Khả năng khai thác thêm nội dung cho các bản cập nhật trong tương lai."
+        },
+        "content_expandability": {
+          "value": 91,
+          "description": "Khả năng mở rộng game bằng map, item, mechanic, quest, boss hoặc hệ thống mới."
+        },
+        "replayability": {
+          "value": 89,
+          "description": "Khả năng khiến người chơi quay lại chơi nhiều lần."
+        },
+        "gameplay_depth": {
+          "value": 52,
+          "description": "Độ sâu và số lượng hệ thống gameplay mà game sở hữu."
+        },
+        "player_retention": {
+          "value": 21,
           "description": "Khả năng giữ người chơi tiếp tục chơi sau khi đã tham gia game."
         },
         "monetization_potential": {
@@ -1475,47 +2238,156 @@
           "description": "Tiềm năng tạo doanh thu từ game."
         },
         "robux_spending_potential": {
-          "value": 43,
+          "value": 49,
           "description": "Khả năng khiến người chơi chi Robux thông qua gamepass, developer product, item hoặc tính năng trả phí."
         },
         "community_size": {
-          "value": 60,
+          "value": 38,
           "description": "Quy mô cộng đồng và lượng người chơi quan tâm đến game."
         },
         "community_activity": {
-          "value": 26,
+          "value": 35,
           "description": "Mức độ hoạt động của cộng đồng, Discord, social media và các nền tảng liên quan."
         },
         "developer_activity": {
-          "value": 95,
+          "value": 28,
           "description": "Mức độ hoạt động và khả năng tiếp tục phát triển game của developer."
         },
         "update_frequency": {
-          "value": 92,
+          "value": 13,
           "description": "Tần suất game được cập nhật nội dung hoặc sửa đổi."
         },
         "trend_potential": {
-          "value": 48,
+          "value": 15,
           "description": "Khả năng game hưởng lợi từ xu hướng Roblox hoặc thị trường game hiện tại."
         },
         "viral_potential": {
-          "value": 68,
+          "value": 41,
           "description": "Khả năng game trở nên viral và thu hút lượng lớn người chơi trong thời gian ngắn."
         },
         "long_term_potential": {
-          "value": 50,
+          "value": 70,
           "description": "Khả năng game duy trì người chơi và giá trị trong dài hạn."
         },
         "competition_level": {
-          "value": 19,
+          "value": 88,
           "description": "Mức độ cạnh tranh với các game khác cùng thể loại."
         },
         "market_demand": {
-          "value": 11,
+          "value": 19,
           "description": "Mức độ nhu cầu của thị trường đối với thể loại và gameplay của game."
         },
         "like_ratio": {
-          "value": 75.2,
+          "value": 75.0,
+          "description": "Tỷ lệ Like so với tổng số Like và Dislike (%)."
+        }
+      },
+      "overall_score": {
+        "value": 53.2,
+        "description": "Điểm tổng hợp cuối cùng dựa trên toàn bộ tiêu chí."
+      }
+    }
+  },
+  {
+    "game": {
+      "name": "Obby Master Challenge",
+      "robux_valuation": {
+        "min": 8079000,
+        "max": 12408000,
+        "currency": "Robux",
+        "description": "Khoảng Robux ước tính để định giá toàn bộ game."
+      },
+      "criteria": {
+        "ccu_current": {
+          "value": 25244,
+          "description": "Số người chơi đồng thời tại thời điểm đánh giá."
+        },
+        "ccu_peak": {
+          "value": 65099,
+          "description": "CCU cao nhất mà game từng đạt được."
+        },
+        "ccu_average": {
+          "value": 26271,
+          "description": "CCU trung bình trong một khoảng thời gian nhất định."
+        },
+        "ccu_growth_rate": {
+          "value": 3.3,
+          "description": "Tốc độ tăng hoặc giảm CCU theo thời gian, tính theo phần trăm."
+        },
+        "difficulty_upgrade": {
+          "value": 93,
+          "description": "Mức độ game còn có thể mở rộng progression, nâng cấp, cấp độ và độ khó."
+        },
+        "content_amount": {
+          "value": 10,
+          "description": "Lượng nội dung hiện có trong game."
+        },
+        "future_update_potential": {
+          "value": 23,
+          "description": "Khả năng khai thác thêm nội dung cho các bản cập nhật trong tương lai."
+        },
+        "content_expandability": {
+          "value": 64,
+          "description": "Khả năng mở rộng game bằng map, item, mechanic, quest, boss hoặc hệ thống mới."
+        },
+        "replayability": {
+          "value": 38,
+          "description": "Khả năng khiến người chơi quay lại chơi nhiều lần."
+        },
+        "gameplay_depth": {
+          "value": 32,
+          "description": "Độ sâu và số lượng hệ thống gameplay mà game sở hữu."
+        },
+        "player_retention": {
+          "value": 76,
+          "description": "Khả năng giữ người chơi tiếp tục chơi sau khi đã tham gia game."
+        },
+        "monetization_potential": {
+          "value": 69,
+          "description": "Tiềm năng tạo doanh thu từ game."
+        },
+        "robux_spending_potential": {
+          "value": 16,
+          "description": "Khả năng khiến người chơi chi Robux thông qua gamepass, developer product, item hoặc tính năng trả phí."
+        },
+        "community_size": {
+          "value": 81,
+          "description": "Quy mô cộng đồng và lượng người chơi quan tâm đến game."
+        },
+        "community_activity": {
+          "value": 41,
+          "description": "Mức độ hoạt động của cộng đồng, Discord, social media và các nền tảng liên quan."
+        },
+        "developer_activity": {
+          "value": 25,
+          "description": "Mức độ hoạt động và khả năng tiếp tục phát triển game của developer."
+        },
+        "update_frequency": {
+          "value": 68,
+          "description": "Tần suất game được cập nhật nội dung hoặc sửa đổi."
+        },
+        "trend_potential": {
+          "value": 27,
+          "description": "Khả năng game hưởng lợi từ xu hướng Roblox hoặc thị trường game hiện tại."
+        },
+        "viral_potential": {
+          "value": 69,
+          "description": "Khả năng game trở nên viral và thu hút lượng lớn người chơi trong thời gian ngắn."
+        },
+        "long_term_potential": {
+          "value": 95,
+          "description": "Khả năng game duy trì người chơi và giá trị trong dài hạn."
+        },
+        "competition_level": {
+          "value": 77,
+          "description": "Mức độ cạnh tranh với các game khác cùng thể loại."
+        },
+        "market_demand": {
+          "value": 81,
+          "description": "Mức độ nhu cầu của thị trường đối với thể loại và gameplay của game."
+        },
+        "like_ratio": {
+          "value": 81.2,
           "description": "Tỷ lệ Like so với tổng số Like và Dislike (%)."
         }
       },
@@ -1527,431 +2399,213 @@
   },
   {
     "game": {
-      "name": "Tower Defense Chaos",
+      "name": "Merge Kingdom Empire",
       "robux_valuation": {
-        "min": 46571,
-        "max": 93143,
+        "min": 10107000,
+        "max": 14280000,
         "currency": "Robux",
         "description": "Khoảng Robux ước tính để định giá toàn bộ game."
       },
       "criteria": {
         "ccu_current": {
-          "value": 6602,
+          "value": 47218,
           "description": "Số người chơi đồng thời tại thời điểm đánh giá."
         },
         "ccu_peak": {
-          "value": 9802,
+          "value": 117218,
           "description": "CCU cao nhất mà game từng đạt được."
         },
         "ccu_average": {
-          "value": 35284,
+          "value": 33161,
           "description": "CCU trung bình trong một khoảng thời gian nhất định."
         },
         "ccu_growth_rate": {
-          "value": 1.0,
+          "value": 17.0,
           "description": "Tốc độ tăng hoặc giảm CCU theo thời gian, tính theo phần trăm."
         },
         "difficulty_upgrade": {
-          "value": 43,
+          "value": 80,
           "description": "Mức độ game còn có thể mở rộng progression, nâng cấp, cấp độ và độ khó."
         },
         "content_amount": {
-          "value": 26,
+          "value": 67,
           "description": "Lượng nội dung hiện có trong game."
         },
         "future_update_potential": {
-          "value": 54,
-          "description": "Khả năng khai thác thêm nội dung cho các bản cập nhật trong tương lai."
-        },
-        "content_expandability": {
-          "value": 18,
-          "description": "Khả năng mở rộng game bằng map, item, mechanic, quest, boss hoặc hệ thống mới."
-        },
-        "replayability": {
-          "value": 41,
-          "description": "Khả năng khiến người chơi quay lại chơi nhiều lần."
-        },
-        "gameplay_depth": {
-          "value": 57,
-          "description": "Độ sâu và số lượng hệ thống gameplay mà game sở hữu."
-        },
-        "player_retention": {
-          "value": 46,
-          "description": "Khả năng giữ người chơi tiếp tục chơi sau khi đã tham gia game."
-        },
-        "monetization_potential": {
           "value": 30,
-          "description": "Tiềm năng tạo doanh thu từ game."
-        },
-        "robux_spending_potential": {
-          "value": 66,
-          "description": "Khả năng khiến người chơi chi Robux thông qua gamepass, developer product, item hoặc tính năng trả phí."
-        },
-        "community_size": {
-          "value": 79,
-          "description": "Quy mô cộng đồng và lượng người chơi quan tâm đến game."
-        },
-        "community_activity": {
-          "value": 48,
-          "description": "Mức độ hoạt động của cộng đồng, Discord, social media và các nền tảng liên quan."
-        },
-        "developer_activity": {
-          "value": 88,
-          "description": "Mức độ hoạt động và khả năng tiếp tục phát triển game của developer."
-        },
-        "update_frequency": {
-          "value": 93,
-          "description": "Tần suất game được cập nhật nội dung hoặc sửa đổi."
-        },
-        "trend_potential": {
-          "value": 77,
-          "description": "Khả năng game hưởng lợi từ xu hướng Roblox hoặc thị trường game hiện tại."
-        },
-        "viral_potential": {
-          "value": 11,
-          "description": "Khả năng game trở nên viral và thu hút lượng lớn người chơi trong thời gian ngắn."
-        },
-        "long_term_potential": {
-          "value": 95,
-          "description": "Khả năng game duy trì người chơi và giá trị trong dài hạn."
-        },
-        "competition_level": {
-          "value": 80,
-          "description": "Mức độ cạnh tranh với các game khác cùng thể loại."
-        },
-        "market_demand": {
-          "value": 48,
-          "description": "Mức độ nhu cầu của thị trường đối với thể loại và gameplay của game."
-        },
-        "like_ratio": {
-          "value": 96.0,
-          "description": "Tỷ lệ Like so với tổng số Like và Dislike (%)."
-        }
-      },
-      "overall_score": {
-        "value": 58.8,
-        "description": "Điểm tổng hợp cuối cùng dựa trên toàn bộ tiêu chí."
-      }
-    }
-  },
-  {
-    "game": {
-      "name": "Ninja Path Saga",
-      "robux_valuation": {
-        "min": 74639,
-        "max": 149278,
-        "currency": "Robux",
-        "description": "Khoảng Robux ước tính để định giá toàn bộ game."
-      },
-      "criteria": {
-        "ccu_current": {
-          "value": 8850,
-          "description": "Số người chơi đồng thời tại thời điểm đánh giá."
-        },
-        "ccu_peak": {
-          "value": 34864,
-          "description": "CCU cao nhất mà game từng đạt được."
-        },
-        "ccu_average": {
-          "value": 7614,
-          "description": "CCU trung bình trong một khoảng thời gian nhất định."
-        },
-        "ccu_growth_rate": {
-          "value": 51.7,
-          "description": "Tốc độ tăng hoặc giảm CCU theo thời gian, tính theo phần trăm."
-        },
-        "difficulty_upgrade": {
-          "value": 80,
-          "description": "Mức độ game còn có thể mở rộng progression, nâng cấp, cấp độ và độ khó."
-        },
-        "content_amount": {
-          "value": 29,
-          "description": "Lượng nội dung hiện có trong game."
-        },
-        "future_update_potential": {
-          "value": 44,
           "description": "Khả năng khai thác thêm nội dung cho các bản cập nhật trong tương lai."
         },
         "content_expandability": {
-          "value": 46,
+          "value": 70,
           "description": "Khả năng mở rộng game bằng map, item, mechanic, quest, boss hoặc hệ thống mới."
         },
         "replayability": {
-          "value": 87,
+          "value": 67,
           "description": "Khả năng khiến người chơi quay lại chơi nhiều lần."
         },
         "gameplay_depth": {
-          "value": 36,
+          "value": 43,
           "description": "Độ sâu và số lượng hệ thống gameplay mà game sở hữu."
         },
         "player_retention": {
-          "value": 53,
+          "value": 41,
           "description": "Khả năng giữ người chơi tiếp tục chơi sau khi đã tham gia game."
         },
         "monetization_potential": {
-          "value": 36,
+          "value": 91,
           "description": "Tiềm năng tạo doanh thu từ game."
         },
         "robux_spending_potential": {
-          "value": 91,
-          "description": "Khả năng khiến người chơi chi Robux thông qua gamepass, developer product, item hoặc tính năng trả phí."
-        },
-        "community_size": {
-          "value": 43,
-          "description": "Quy mô cộng đồng và lượng người chơi quan tâm đến game."
-        },
-        "community_activity": {
-          "value": 74,
-          "description": "Mức độ hoạt động của cộng đồng, Discord, social media và các nền tảng liên quan."
-        },
-        "developer_activity": {
-          "value": 72,
-          "description": "Mức độ hoạt động và khả năng tiếp tục phát triển game của developer."
-        },
-        "update_frequency": {
-          "value": 42,
-          "description": "Tần suất game được cập nhật nội dung hoặc sửa đổi."
-        },
-        "trend_potential": {
-          "value": 16,
-          "description": "Khả năng game hưởng lợi từ xu hướng Roblox hoặc thị trường game hiện tại."
-        },
-        "viral_potential": {
-          "value": 21,
-          "description": "Khả năng game trở nên viral và thu hút lượng lớn người chơi trong thời gian ngắn."
-        },
-        "long_term_potential": {
-          "value": 91,
-          "description": "Khả năng game duy trì người chơi và giá trị trong dài hạn."
-        },
-        "competition_level": {
-          "value": 64,
-          "description": "Mức độ cạnh tranh với các game khác cùng thể loại."
-        },
-        "market_demand": {
           "value": 45,
-          "description": "Mức độ nhu cầu của thị trường đối với thể loại và gameplay của game."
-        },
-        "like_ratio": {
-          "value": 56.9,
-          "description": "Tỷ lệ Like so với tổng số Like và Dislike (%)."
-        }
-      },
-      "overall_score": {
-        "value": 57.1,
-        "description": "Điểm tổng hợp cuối cùng dựa trên toàn bộ tiêu chí."
-      }
-    }
-  },
-  {
-    "game": {
-      "name": "Space Miners United",
-      "robux_valuation": {
-        "min": 135685,
-        "max": 271371,
-        "currency": "Robux",
-        "description": "Khoảng Robux ước tính để định giá toàn bộ game."
-      },
-      "criteria": {
-        "ccu_current": {
-          "value": 8623,
-          "description": "Số người chơi đồng thời tại thời điểm đánh giá."
-        },
-        "ccu_peak": {
-          "value": 83707,
-          "description": "CCU cao nhất mà game từng đạt được."
-        },
-        "ccu_average": {
-          "value": 17217,
-          "description": "CCU trung bình trong một khoảng thời gian nhất định."
-        },
-        "ccu_growth_rate": {
-          "value": -2.9,
-          "description": "Tốc độ tăng hoặc giảm CCU theo thời gian, tính theo phần trăm."
-        },
-        "difficulty_upgrade": {
-          "value": 66,
-          "description": "Mức độ game còn có thể mở rộng progression, nâng cấp, cấp độ và độ khó."
-        },
-        "content_amount": {
-          "value": 80,
-          "description": "Lượng nội dung hiện có trong game."
-        },
-        "future_update_potential": {
-          "value": 64,
-          "description": "Khả năng khai thác thêm nội dung cho các bản cập nhật trong tương lai."
-        },
-        "content_expandability": {
-          "value": 81,
-          "description": "Khả năng mở rộng game bằng map, item, mechanic, quest, boss hoặc hệ thống mới."
-        },
-        "replayability": {
-          "value": 11,
-          "description": "Khả năng khiến người chơi quay lại chơi nhiều lần."
-        },
-        "gameplay_depth": {
-          "value": 24,
-          "description": "Độ sâu và số lượng hệ thống gameplay mà game sở hữu."
-        },
-        "player_retention": {
-          "value": 19,
-          "description": "Khả năng giữ người chơi tiếp tục chơi sau khi đã tham gia game."
-        },
-        "monetization_potential": {
-          "value": 29,
-          "description": "Tiềm năng tạo doanh thu từ game."
-        },
-        "robux_spending_potential": {
-          "value": 79,
           "description": "Khả năng khiến người chơi chi Robux thông qua gamepass, developer product, item hoặc tính năng trả phí."
         },
         "community_size": {
-          "value": 14,
+          "value": 76,
           "description": "Quy mô cộng đồng và lượng người chơi quan tâm đến game."
         },
         "community_activity": {
-          "value": 57,
+          "value": 72,
           "description": "Mức độ hoạt động của cộng đồng, Discord, social media và các nền tảng liên quan."
         },
         "developer_activity": {
-          "value": 84,
+          "value": 90,
           "description": "Mức độ hoạt động và khả năng tiếp tục phát triển game của developer."
         },
         "update_frequency": {
-          "value": 80,
-          "description": "Tần suất game được cập nhật nội dung hoặc sửa đổi."
-        },
-        "trend_potential": {
-          "value": 28,
-          "description": "Khả năng game hưởng lợi từ xu hướng Roblox hoặc thị trường game hiện tại."
-        },
-        "viral_potential": {
-          "value": 65,
-          "description": "Khả năng game trở nên viral và thu hút lượng lớn người chơi trong thời gian ngắn."
-        },
-        "long_term_potential": {
-          "value": 26,
-          "description": "Khả năng game duy trì người chơi và giá trị trong dài hạn."
-        },
-        "competition_level": {
-          "value": 15,
-          "description": "Mức độ cạnh tranh với các game khác cùng thể loại."
-        },
-        "market_demand": {
-          "value": 49,
-          "description": "Mức độ nhu cầu của thị trường đối với thể loại và gameplay của game."
-        },
-        "like_ratio": {
-          "value": 71.0,
-          "description": "Tỷ lệ Like so với tổng số Like và Dislike (%)."
-        }
-      },
-      "overall_score": {
-        "value": 51.2,
-        "description": "Điểm tổng hợp cuối cùng dựa trên toàn bộ tiêu chí."
-      }
-    }
-  },
-  {
-    "game": {
-      "name": "Horror Hospital",
-      "robux_valuation": {
-        "min": 117410,
-        "max": 234821,
-        "currency": "Robux",
-        "description": "Khoảng Robux ước tính để định giá toàn bộ game."
-      },
-      "criteria": {
-        "ccu_current": {
-          "value": 2664,
-          "description": "Số người chơi đồng thời tại thời điểm đánh giá."
-        },
-        "ccu_peak": {
-          "value": 47098,
-          "description": "CCU cao nhất mà game từng đạt được."
-        },
-        "ccu_average": {
-          "value": 13817,
-          "description": "CCU trung bình trong một khoảng thời gian nhất định."
-        },
-        "ccu_growth_rate": {
-          "value": 36.2,
-          "description": "Tốc độ tăng hoặc giảm CCU theo thời gian, tính theo phần trăm."
-        },
-        "difficulty_upgrade": {
-          "value": 95,
-          "description": "Mức độ game còn có thể mở rộng progression, nâng cấp, cấp độ và độ khó."
-        },
-        "content_amount": {
-          "value": 23,
-          "description": "Lượng nội dung hiện có trong game."
-        },
-        "future_update_potential": {
-          "value": 55,
-          "description": "Khả năng khai thác thêm nội dung cho các bản cập nhật trong tương lai."
-        },
-        "content_expandability": {
-          "value": 81,
-          "description": "Khả năng mở rộng game bằng map, item, mechanic, quest, boss hoặc hệ thống mới."
-        },
-        "replayability": {
-          "value": 62,
-          "description": "Khả năng khiến người chơi quay lại chơi nhiều lần."
-        },
-        "gameplay_depth": {
-          "value": 89,
-          "description": "Độ sâu và số lượng hệ thống gameplay mà game sở hữu."
-        },
-        "player_retention": {
-          "value": 29,
-          "description": "Khả năng giữ người chơi tiếp tục chơi sau khi đã tham gia game."
-        },
-        "monetization_potential": {
           "value": 40,
-          "description": "Tiềm năng tạo doanh thu từ game."
-        },
-        "robux_spending_potential": {
-          "value": 30,
-          "description": "Khả năng khiến người chơi chi Robux thông qua gamepass, developer product, item hoặc tính năng trả phí."
-        },
-        "community_size": {
-          "value": 32,
-          "description": "Quy mô cộng đồng và lượng người chơi quan tâm đến game."
-        },
-        "community_activity": {
-          "value": 62,
-          "description": "Mức độ hoạt động của cộng đồng, Discord, social media và các nền tảng liên quan."
-        },
-        "developer_activity": {
-          "value": 13,
-          "description": "Mức độ hoạt động và khả năng tiếp tục phát triển game của developer."
-        },
-        "update_frequency": {
-          "value": 32,
           "description": "Tần suất game được cập nhật nội dung hoặc sửa đổi."
         },
         "trend_potential": {
-          "value": 52,
+          "value": 45,
           "description": "Khả năng game hưởng lợi từ xu hướng Roblox hoặc thị trường game hiện tại."
         },
         "viral_potential": {
-          "value": 62,
+          "value": 66,
           "description": "Khả năng game trở nên viral và thu hút lượng lớn người chơi trong thời gian ngắn."
         },
         "long_term_potential": {
-          "value": 95,
+          "value": 19,
           "description": "Khả năng game duy trì người chơi và giá trị trong dài hạn."
         },
         "competition_level": {
-          "value": 41,
+          "value": 46,
           "description": "Mức độ cạnh tranh với các game khác cùng thể loại."
         },
         "market_demand": {
-          "value": 44,
+          "value": 40,
           "description": "Mức độ nhu cầu của thị trường đối với thể loại và gameplay của game."
         },
         "like_ratio": {
-          "value": 62.0,
+          "value": 67.0,
+          "description": "Tỷ lệ Like so với tổng số Like và Dislike (%)."
+        }
+      },
+      "overall_score": {
+        "value": 60.5,
+        "description": "Điểm tổng hợp cuối cùng dựa trên toàn bộ tiêu chí."
+      }
+    }
+  },
+  {
+    "game": {
+      "name": "City Life RP",
+      "robux_valuation": {
+        "min": 6553000,
+        "max": 12277000,
+        "currency": "Robux",
+        "description": "Khoảng Robux ước tính để định giá toàn bộ game."
+      },
+      "criteria": {
+        "ccu_current": {
+          "value": 15235,
+          "description": "Số người chơi đồng thời tại thời điểm đánh giá."
+        },
+        "ccu_peak": {
+          "value": 50505,
+          "description": "CCU cao nhất mà game từng đạt được."
+        },
+        "ccu_average": {
+          "value": 45558,
+          "description": "CCU trung bình trong một khoảng thời gian nhất định."
+        },
+        "ccu_growth_rate": {
+          "value": -3.5,
+          "description": "Tốc độ tăng hoặc giảm CCU theo thời gian, tính theo phần trăm."
+        },
+        "difficulty_upgrade": {
+          "value": 37,
+          "description": "Mức độ game còn có thể mở rộng progression, nâng cấp, cấp độ và độ khó."
+        },
+        "content_amount": {
+          "value": 18,
+          "description": "Lượng nội dung hiện có trong game."
+        },
+        "future_update_potential": {
+          "value": 63,
+          "description": "Khả năng khai thác thêm nội dung cho các bản cập nhật trong tương lai."
+        },
+        "content_expandability": {
+          "value": 62,
+          "description": "Khả năng mở rộng game bằng map, item, mechanic, quest, boss hoặc hệ thống mới."
+        },
+        "replayability": {
+          "value": 52,
+          "description": "Khả năng khiến người chơi quay lại chơi nhiều lần."
+        },
+        "gameplay_depth": {
+          "value": 79,
+          "description": "Độ sâu và số lượng hệ thống gameplay mà game sở hữu."
+        },
+        "player_retention": {
+          "value": 69,
+          "description": "Khả năng giữ người chơi tiếp tục chơi sau khi đã tham gia game."
+        },
+        "monetization_potential": {
+          "value": 63,
+          "description": "Tiềm năng tạo doanh thu từ game."
+        },
+        "robux_spending_potential": {
+          "value": 17,
+          "description": "Khả năng khiến người chơi chi Robux thông qua gamepass, developer product, item hoặc tính năng trả phí."
+        },
+        "community_size": {
+          "value": 36,
+          "description": "Quy mô cộng đồng và lượng người chơi quan tâm đến game."
+        },
+        "community_activity": {
+          "value": 63,
+          "description": "Mức độ hoạt động của cộng đồng, Discord, social media và các nền tảng liên quan."
+        },
+        "developer_activity": {
+          "value": 59,
+          "description": "Mức độ hoạt động và khả năng tiếp tục phát triển game của developer."
+        },
+        "update_frequency": {
+          "value": 84,
+          "description": "Tần suất game được cập nhật nội dung hoặc sửa đổi."
+        },
+        "trend_potential": {
+          "value": 12,
+          "description": "Khả năng game hưởng lợi từ xu hướng Roblox hoặc thị trường game hiện tại."
+        },
+        "viral_potential": {
+          "value": 83,
+          "description": "Khả năng game trở nên viral và thu hút lượng lớn người chơi trong thời gian ngắn."
+        },
+        "long_term_potential": {
+          "value": 58,
+          "description": "Khả năng game duy trì người chơi và giá trị trong dài hạn."
+        },
+        "competition_level": {
+          "value": 71,
+          "description": "Mức độ cạnh tranh với các game khác cùng thể loại."
+        },
+        "market_demand": {
+          "value": 10,
+          "description": "Mức độ nhu cầu của thị trường đối với thể loại và gameplay của game."
+        },
+        "like_ratio": {
+          "value": 96.5,
           "description": "Tỷ lệ Like so với tổng số Like và Dislike (%)."
         }
       },
@@ -1963,44 +2617,44 @@
   },
   {
     "game": {
-      "name": "Pirate Voyage Online",
+      "name": "Dragon Tamer Chronicles",
       "robux_valuation": {
-        "min": 35506,
-        "max": 71012,
+        "min": 6419000,
+        "max": 8645000,
         "currency": "Robux",
         "description": "Khoảng Robux ước tính để định giá toàn bộ game."
       },
       "criteria": {
         "ccu_current": {
-          "value": 25120,
+          "value": 54850,
           "description": "Số người chơi đồng thời tại thời điểm đánh giá."
         },
         "ccu_peak": {
-          "value": 5275,
+          "value": 55221,
           "description": "CCU cao nhất mà game từng đạt được."
         },
         "ccu_average": {
-          "value": 30897,
+          "value": 35352,
           "description": "CCU trung bình trong một khoảng thời gian nhất định."
         },
         "ccu_growth_rate": {
-          "value": 1.7,
+          "value": 41.1,
           "description": "Tốc độ tăng hoặc giảm CCU theo thời gian, tính theo phần trăm."
         },
         "difficulty_upgrade": {
-          "value": 68,
+          "value": 79,
           "description": "Mức độ game còn có thể mở rộng progression, nâng cấp, cấp độ và độ khó."
         },
         "content_amount": {
-          "value": 54,
+          "value": 87,
           "description": "Lượng nội dung hiện có trong game."
         },
         "future_update_potential": {
-          "value": 49,
+          "value": 38,
           "description": "Khả năng khai thác thêm nội dung cho các bản cập nhật trong tương lai."
         },
         "content_expandability": {
-          "value": 39,
+          "value": 72,
           "description": "Khả năng mở rộng game bằng map, item, mechanic, quest, boss hoặc hệ thống mới."
         },
         "replayability": {
@@ -2008,249 +2662,31 @@
           "description": "Khả năng khiến người chơi quay lại chơi nhiều lần."
         },
         "gameplay_depth": {
+          "value": 44,
+          "description": "Độ sâu và số lượng hệ thống gameplay mà game sở hữu."
+        },
+        "player_retention": {
+          "value": 65,
+          "description": "Khả năng giữ người chơi tiếp tục chơi sau khi đã tham gia game."
+        },
+        "monetization_potential": {
+          "value": 72,
+          "description": "Tiềm năng tạo doanh thu từ game."
+        },
+        "robux_spending_potential": {
           "value": 13,
-          "description": "Độ sâu và số lượng hệ thống gameplay mà game sở hữu."
-        },
-        "player_retention": {
-          "value": 94,
-          "description": "Khả năng giữ người chơi tiếp tục chơi sau khi đã tham gia game."
-        },
-        "monetization_potential": {
-          "value": 34,
-          "description": "Tiềm năng tạo doanh thu từ game."
-        },
-        "robux_spending_potential": {
-          "value": 61,
           "description": "Khả năng khiến người chơi chi Robux thông qua gamepass, developer product, item hoặc tính năng trả phí."
         },
         "community_size": {
-          "value": 52,
-          "description": "Quy mô cộng đồng và lượng người chơi quan tâm đến game."
-        },
-        "community_activity": {
-          "value": 45,
-          "description": "Mức độ hoạt động của cộng đồng, Discord, social media và các nền tảng liên quan."
-        },
-        "developer_activity": {
-          "value": 18,
-          "description": "Mức độ hoạt động và khả năng tiếp tục phát triển game của developer."
-        },
-        "update_frequency": {
-          "value": 45,
-          "description": "Tần suất game được cập nhật nội dung hoặc sửa đổi."
-        },
-        "trend_potential": {
-          "value": 54,
-          "description": "Khả năng game hưởng lợi từ xu hướng Roblox hoặc thị trường game hiện tại."
-        },
-        "viral_potential": {
-          "value": 92,
-          "description": "Khả năng game trở nên viral và thu hút lượng lớn người chơi trong thời gian ngắn."
-        },
-        "long_term_potential": {
-          "value": 75,
-          "description": "Khả năng game duy trì người chơi và giá trị trong dài hạn."
-        },
-        "competition_level": {
-          "value": 61,
-          "description": "Mức độ cạnh tranh với các game khác cùng thể loại."
-        },
-        "market_demand": {
-          "value": 78,
-          "description": "Mức độ nhu cầu của thị trường đối với thể loại và gameplay của game."
-        },
-        "like_ratio": {
-          "value": 69.6,
-          "description": "Tỷ lệ Like so với tổng số Like và Dislike (%)."
-        }
-      },
-      "overall_score": {
-        "value": 57.1,
-        "description": "Điểm tổng hợp cuối cùng dựa trên toàn bộ tiêu chí."
-      }
-    }
-  },
-  {
-    "game": {
-      "name": "Sword Ascendant",
-      "robux_valuation": {
-        "min": 124482,
-        "max": 248964,
-        "currency": "Robux",
-        "description": "Khoảng Robux ước tính để định giá toàn bộ game."
-      },
-      "criteria": {
-        "ccu_current": {
-          "value": 17168,
-          "description": "Số người chơi đồng thời tại thời điểm đánh giá."
-        },
-        "ccu_peak": {
-          "value": 23605,
-          "description": "CCU cao nhất mà game từng đạt được."
-        },
-        "ccu_average": {
-          "value": 38099,
-          "description": "CCU trung bình trong một khoảng thời gian nhất định."
-        },
-        "ccu_growth_rate": {
-          "value": 57.2,
-          "description": "Tốc độ tăng hoặc giảm CCU theo thời gian, tính theo phần trăm."
-        },
-        "difficulty_upgrade": {
-          "value": 43,
-          "description": "Mức độ game còn có thể mở rộng progression, nâng cấp, cấp độ và độ khó."
-        },
-        "content_amount": {
-          "value": 14,
-          "description": "Lượng nội dung hiện có trong game."
-        },
-        "future_update_potential": {
-          "value": 23,
-          "description": "Khả năng khai thác thêm nội dung cho các bản cập nhật trong tương lai."
-        },
-        "content_expandability": {
-          "value": 86,
-          "description": "Khả năng mở rộng game bằng map, item, mechanic, quest, boss hoặc hệ thống mới."
-        },
-        "replayability": {
-          "value": 65,
-          "description": "Khả năng khiến người chơi quay lại chơi nhiều lần."
-        },
-        "gameplay_depth": {
-          "value": 54,
-          "description": "Độ sâu và số lượng hệ thống gameplay mà game sở hữu."
-        },
-        "player_retention": {
-          "value": 50,
-          "description": "Khả năng giữ người chơi tiếp tục chơi sau khi đã tham gia game."
-        },
-        "monetization_potential": {
-          "value": 65,
-          "description": "Tiềm năng tạo doanh thu từ game."
-        },
-        "robux_spending_potential": {
-          "value": 87,
-          "description": "Khả năng khiến người chơi chi Robux thông qua gamepass, developer product, item hoặc tính năng trả phí."
-        },
-        "community_size": {
-          "value": 75,
-          "description": "Quy mô cộng đồng và lượng người chơi quan tâm đến game."
-        },
-        "community_activity": {
-          "value": 24,
-          "description": "Mức độ hoạt động của cộng đồng, Discord, social media và các nền tảng liên quan."
-        },
-        "developer_activity": {
           "value": 59,
-          "description": "Mức độ hoạt động và khả năng tiếp tục phát triển game của developer."
-        },
-        "update_frequency": {
-          "value": 83,
-          "description": "Tần suất game được cập nhật nội dung hoặc sửa đổi."
-        },
-        "trend_potential": {
-          "value": 34,
-          "description": "Khả năng game hưởng lợi từ xu hướng Roblox hoặc thị trường game hiện tại."
-        },
-        "viral_potential": {
-          "value": 42,
-          "description": "Khả năng game trở nên viral và thu hút lượng lớn người chơi trong thời gian ngắn."
-        },
-        "long_term_potential": {
-          "value": 15,
-          "description": "Khả năng game duy trì người chơi và giá trị trong dài hạn."
-        },
-        "competition_level": {
-          "value": 65,
-          "description": "Mức độ cạnh tranh với các game khác cùng thể loại."
-        },
-        "market_demand": {
-          "value": 10,
-          "description": "Mức độ nhu cầu của thị trường đối với thể loại và gameplay của game."
-        },
-        "like_ratio": {
-          "value": 77.9,
-          "description": "Tỷ lệ Like so với tổng số Like và Dislike (%)."
-        }
-      },
-      "overall_score": {
-        "value": 52.6,
-        "description": "Điểm tổng hợp cuối cùng dựa trên toàn bộ tiêu chí."
-      }
-    }
-  },
-  {
-    "game": {
-      "name": "Basketball Stars League",
-      "robux_valuation": {
-        "min": 90757,
-        "max": 181515,
-        "currency": "Robux",
-        "description": "Khoảng Robux ước tính để định giá toàn bộ game."
-      },
-      "criteria": {
-        "ccu_current": {
-          "value": 44000,
-          "description": "Số người chơi đồng thời tại thời điểm đánh giá."
-        },
-        "ccu_peak": {
-          "value": 26025,
-          "description": "CCU cao nhất mà game từng đạt được."
-        },
-        "ccu_average": {
-          "value": 23919,
-          "description": "CCU trung bình trong một khoảng thời gian nhất định."
-        },
-        "ccu_growth_rate": {
-          "value": 17.3,
-          "description": "Tốc độ tăng hoặc giảm CCU theo thời gian, tính theo phần trăm."
-        },
-        "difficulty_upgrade": {
-          "value": 95,
-          "description": "Mức độ game còn có thể mở rộng progression, nâng cấp, cấp độ và độ khó."
-        },
-        "content_amount": {
-          "value": 52,
-          "description": "Lượng nội dung hiện có trong game."
-        },
-        "future_update_potential": {
-          "value": 89,
-          "description": "Khả năng khai thác thêm nội dung cho các bản cập nhật trong tương lai."
-        },
-        "content_expandability": {
-          "value": 50,
-          "description": "Khả năng mở rộng game bằng map, item, mechanic, quest, boss hoặc hệ thống mới."
-        },
-        "replayability": {
-          "value": 94,
-          "description": "Khả năng khiến người chơi quay lại chơi nhiều lần."
-        },
-        "gameplay_depth": {
-          "value": 25,
-          "description": "Độ sâu và số lượng hệ thống gameplay mà game sở hữu."
-        },
-        "player_retention": {
-          "value": 48,
-          "description": "Khả năng giữ người chơi tiếp tục chơi sau khi đã tham gia game."
-        },
-        "monetization_potential": {
-          "value": 74,
-          "description": "Tiềm năng tạo doanh thu từ game."
-        },
-        "robux_spending_potential": {
-          "value": 49,
-          "description": "Khả năng khiến người chơi chi Robux thông qua gamepass, developer product, item hoặc tính năng trả phí."
-        },
-        "community_size": {
-          "value": 95,
           "description": "Quy mô cộng đồng và lượng người chơi quan tâm đến game."
         },
         "community_activity": {
-          "value": 62,
+          "value": 53,
           "description": "Mức độ hoạt động của cộng đồng, Discord, social media và các nền tảng liên quan."
         },
         "developer_activity": {
-          "value": 51,
+          "value": 95,
           "description": "Mức độ hoạt động và khả năng tiếp tục phát triển game của developer."
         },
         "update_frequency": {
@@ -2258,11 +2694,11 @@
           "description": "Tần suất game được cập nhật nội dung hoặc sửa đổi."
         },
         "trend_potential": {
-          "value": 47,
+          "value": 31,
           "description": "Khả năng game hưởng lợi từ xu hướng Roblox hoặc thị trường game hiện tại."
         },
         "viral_potential": {
-          "value": 80,
+          "value": 69,
           "description": "Khả năng game trở nên viral và thu hút lượng lớn người chơi trong thời gian ngắn."
         },
         "long_term_potential": {
@@ -2270,456 +2706,20 @@
           "description": "Khả năng game duy trì người chơi và giá trị trong dài hạn."
         },
         "competition_level": {
-          "value": 34,
+          "value": 89,
           "description": "Mức độ cạnh tranh với các game khác cùng thể loại."
         },
         "market_demand": {
-          "value": 63,
+          "value": 78,
           "description": "Mức độ nhu cầu của thị trường đối với thể loại và gameplay của game."
         },
         "like_ratio": {
-          "value": 84.3,
+          "value": 56.2,
           "description": "Tỷ lệ Like so với tổng số Like và Dislike (%)."
         }
       },
       "overall_score": {
-        "value": 64.4,
-        "description": "Điểm tổng hợp cuối cùng dựa trên toàn bộ tiêu chí."
-      }
-    }
-  },
-  {
-    "game": {
-      "name": "Obby Master Challenge",
-      "robux_valuation": {
-        "min": 111792,
-        "max": 223585,
-        "currency": "Robux",
-        "description": "Khoảng Robux ước tính để định giá toàn bộ game."
-      },
-      "criteria": {
-        "ccu_current": {
-          "value": 11455,
-          "description": "Số người chơi đồng thời tại thời điểm đánh giá."
-        },
-        "ccu_peak": {
-          "value": 80876,
-          "description": "CCU cao nhất mà game từng đạt được."
-        },
-        "ccu_average": {
-          "value": 37346,
-          "description": "CCU trung bình trong một khoảng thời gian nhất định."
-        },
-        "ccu_growth_rate": {
-          "value": 7.6,
-          "description": "Tốc độ tăng hoặc giảm CCU theo thời gian, tính theo phần trăm."
-        },
-        "difficulty_upgrade": {
-          "value": 80,
-          "description": "Mức độ game còn có thể mở rộng progression, nâng cấp, cấp độ và độ khó."
-        },
-        "content_amount": {
-          "value": 10,
-          "description": "Lượng nội dung hiện có trong game."
-        },
-        "future_update_potential": {
-          "value": 48,
-          "description": "Khả năng khai thác thêm nội dung cho các bản cập nhật trong tương lai."
-        },
-        "content_expandability": {
-          "value": 46,
-          "description": "Khả năng mở rộng game bằng map, item, mechanic, quest, boss hoặc hệ thống mới."
-        },
-        "replayability": {
-          "value": 36,
-          "description": "Khả năng khiến người chơi quay lại chơi nhiều lần."
-        },
-        "gameplay_depth": {
-          "value": 65,
-          "description": "Độ sâu và số lượng hệ thống gameplay mà game sở hữu."
-        },
-        "player_retention": {
-          "value": 84,
-          "description": "Khả năng giữ người chơi tiếp tục chơi sau khi đã tham gia game."
-        },
-        "monetization_potential": {
-          "value": 87,
-          "description": "Tiềm năng tạo doanh thu từ game."
-        },
-        "robux_spending_potential": {
-          "value": 93,
-          "description": "Khả năng khiến người chơi chi Robux thông qua gamepass, developer product, item hoặc tính năng trả phí."
-        },
-        "community_size": {
-          "value": 51,
-          "description": "Quy mô cộng đồng và lượng người chơi quan tâm đến game."
-        },
-        "community_activity": {
-          "value": 69,
-          "description": "Mức độ hoạt động của cộng đồng, Discord, social media và các nền tảng liên quan."
-        },
-        "developer_activity": {
-          "value": 66,
-          "description": "Mức độ hoạt động và khả năng tiếp tục phát triển game của developer."
-        },
-        "update_frequency": {
-          "value": 66,
-          "description": "Tần suất game được cập nhật nội dung hoặc sửa đổi."
-        },
-        "trend_potential": {
-          "value": 37,
-          "description": "Khả năng game hưởng lợi từ xu hướng Roblox hoặc thị trường game hiện tại."
-        },
-        "viral_potential": {
-          "value": 75,
-          "description": "Khả năng game trở nên viral và thu hút lượng lớn người chơi trong thời gian ngắn."
-        },
-        "long_term_potential": {
-          "value": 70,
-          "description": "Khả năng game duy trì người chơi và giá trị trong dài hạn."
-        },
-        "competition_level": {
-          "value": 31,
-          "description": "Mức độ cạnh tranh với các game khác cùng thể loại."
-        },
-        "market_demand": {
-          "value": 94,
-          "description": "Mức độ nhu cầu của thị trường đối với thể loại và gameplay của game."
-        },
-        "like_ratio": {
-          "value": 58.7,
-          "description": "Tỷ lệ Like so với tổng số Like và Dislike (%)."
-        }
-      },
-      "overall_score": {
-        "value": 65.2,
-        "description": "Điểm tổng hợp cuối cùng dựa trên toàn bộ tiêu chí."
-      }
-    }
-  },
-  {
-    "game": {
-      "name": "Merge Kingdom Empire",
-      "robux_valuation": {
-        "min": 47466,
-        "max": 94933,
-        "currency": "Robux",
-        "description": "Khoảng Robux ước tính để định giá toàn bộ game."
-      },
-      "criteria": {
-        "ccu_current": {
-          "value": 41530,
-          "description": "Số người chơi đồng thời tại thời điểm đánh giá."
-        },
-        "ccu_peak": {
-          "value": 81367,
-          "description": "CCU cao nhất mà game từng đạt được."
-        },
-        "ccu_average": {
-          "value": 22016,
-          "description": "CCU trung bình trong một khoảng thời gian nhất định."
-        },
-        "ccu_growth_rate": {
-          "value": -8.0,
-          "description": "Tốc độ tăng hoặc giảm CCU theo thời gian, tính theo phần trăm."
-        },
-        "difficulty_upgrade": {
-          "value": 40,
-          "description": "Mức độ game còn có thể mở rộng progression, nâng cấp, cấp độ và độ khó."
-        },
-        "content_amount": {
-          "value": 49,
-          "description": "Lượng nội dung hiện có trong game."
-        },
-        "future_update_potential": {
-          "value": 38,
-          "description": "Khả năng khai thác thêm nội dung cho các bản cập nhật trong tương lai."
-        },
-        "content_expandability": {
-          "value": 35,
-          "description": "Khả năng mở rộng game bằng map, item, mechanic, quest, boss hoặc hệ thống mới."
-        },
-        "replayability": {
-          "value": 28,
-          "description": "Khả năng khiến người chơi quay lại chơi nhiều lần."
-        },
-        "gameplay_depth": {
-          "value": 13,
-          "description": "Độ sâu và số lượng hệ thống gameplay mà game sở hữu."
-        },
-        "player_retention": {
-          "value": 15,
-          "description": "Khả năng giữ người chơi tiếp tục chơi sau khi đã tham gia game."
-        },
-        "monetization_potential": {
-          "value": 41,
-          "description": "Tiềm năng tạo doanh thu từ game."
-        },
-        "robux_spending_potential": {
-          "value": 70,
-          "description": "Khả năng khiến người chơi chi Robux thông qua gamepass, developer product, item hoặc tính năng trả phí."
-        },
-        "community_size": {
-          "value": 88,
-          "description": "Quy mô cộng đồng và lượng người chơi quan tâm đến game."
-        },
-        "community_activity": {
-          "value": 19,
-          "description": "Mức độ hoạt động của cộng đồng, Discord, social media và các nền tảng liên quan."
-        },
-        "developer_activity": {
-          "value": 68,
-          "description": "Mức độ hoạt động và khả năng tiếp tục phát triển game của developer."
-        },
-        "update_frequency": {
-          "value": 63,
-          "description": "Tần suất game được cập nhật nội dung hoặc sửa đổi."
-        },
-        "trend_potential": {
-          "value": 90,
-          "description": "Khả năng game hưởng lợi từ xu hướng Roblox hoặc thị trường game hiện tại."
-        },
-        "viral_potential": {
-          "value": 83,
-          "description": "Khả năng game trở nên viral và thu hút lượng lớn người chơi trong thời gian ngắn."
-        },
-        "long_term_potential": {
-          "value": 34,
-          "description": "Khả năng game duy trì người chơi và giá trị trong dài hạn."
-        },
-        "competition_level": {
-          "value": 59,
-          "description": "Mức độ cạnh tranh với các game khác cùng thể loại."
-        },
-        "market_demand": {
-          "value": 73,
-          "description": "Mức độ nhu cầu của thị trường đối với thể loại và gameplay của game."
-        },
-        "like_ratio": {
-          "value": 72.6,
-          "description": "Tỷ lệ Like so với tổng số Like và Dislike (%)."
-        }
-      },
-      "overall_score": {
-        "value": 53.3,
-        "description": "Điểm tổng hợp cuối cùng dựa trên toàn bộ tiêu chí."
-      }
-    }
-  },
-  {
-    "game": {
-      "name": "City Life RP",
-      "robux_valuation": {
-        "min": 121174,
-        "max": 242348,
-        "currency": "Robux",
-        "description": "Khoảng Robux ước tính để định giá toàn bộ game."
-      },
-      "criteria": {
-        "ccu_current": {
-          "value": 413,
-          "description": "Số người chơi đồng thời tại thời điểm đánh giá."
-        },
-        "ccu_peak": {
-          "value": 14170,
-          "description": "CCU cao nhất mà game từng đạt được."
-        },
-        "ccu_average": {
-          "value": 27912,
-          "description": "CCU trung bình trong một khoảng thời gian nhất định."
-        },
-        "ccu_growth_rate": {
-          "value": 1.4,
-          "description": "Tốc độ tăng hoặc giảm CCU theo thời gian, tính theo phần trăm."
-        },
-        "difficulty_upgrade": {
-          "value": 76,
-          "description": "Mức độ game còn có thể mở rộng progression, nâng cấp, cấp độ và độ khó."
-        },
-        "content_amount": {
-          "value": 69,
-          "description": "Lượng nội dung hiện có trong game."
-        },
-        "future_update_potential": {
-          "value": 16,
-          "description": "Khả năng khai thác thêm nội dung cho các bản cập nhật trong tương lai."
-        },
-        "content_expandability": {
-          "value": 81,
-          "description": "Khả năng mở rộng game bằng map, item, mechanic, quest, boss hoặc hệ thống mới."
-        },
-        "replayability": {
-          "value": 41,
-          "description": "Khả năng khiến người chơi quay lại chơi nhiều lần."
-        },
-        "gameplay_depth": {
-          "value": 25,
-          "description": "Độ sâu và số lượng hệ thống gameplay mà game sở hữu."
-        },
-        "player_retention": {
-          "value": 68,
-          "description": "Khả năng giữ người chơi tiếp tục chơi sau khi đã tham gia game."
-        },
-        "monetization_potential": {
-          "value": 27,
-          "description": "Tiềm năng tạo doanh thu từ game."
-        },
-        "robux_spending_potential": {
-          "value": 69,
-          "description": "Khả năng khiến người chơi chi Robux thông qua gamepass, developer product, item hoặc tính năng trả phí."
-        },
-        "community_size": {
-          "value": 95,
-          "description": "Quy mô cộng đồng và lượng người chơi quan tâm đến game."
-        },
-        "community_activity": {
-          "value": 77,
-          "description": "Mức độ hoạt động của cộng đồng, Discord, social media và các nền tảng liên quan."
-        },
-        "developer_activity": {
-          "value": 81,
-          "description": "Mức độ hoạt động và khả năng tiếp tục phát triển game của developer."
-        },
-        "update_frequency": {
-          "value": 86,
-          "description": "Tần suất game được cập nhật nội dung hoặc sửa đổi."
-        },
-        "trend_potential": {
-          "value": 50,
-          "description": "Khả năng game hưởng lợi từ xu hướng Roblox hoặc thị trường game hiện tại."
-        },
-        "viral_potential": {
-          "value": 66,
-          "description": "Khả năng game trở nên viral và thu hút lượng lớn người chơi trong thời gian ngắn."
-        },
-        "long_term_potential": {
-          "value": 88,
-          "description": "Khả năng game duy trì người chơi và giá trị trong dài hạn."
-        },
-        "competition_level": {
-          "value": 74,
-          "description": "Mức độ cạnh tranh với các game khác cùng thể loại."
-        },
-        "market_demand": {
-          "value": 64,
-          "description": "Mức độ nhu cầu của thị trường đối với thể loại và gameplay của game."
-        },
-        "like_ratio": {
-          "value": 91.5,
-          "description": "Tỷ lệ Like so với tổng số Like và Dislike (%)."
-        }
-      },
-      "overall_score": {
-        "value": 67.8,
-        "description": "Điểm tổng hợp cuối cùng dựa trên toàn bộ tiêu chí."
-      }
-    }
-  },
-  {
-    "game": {
-      "name": "Dragon Tamer Chronicles",
-      "robux_valuation": {
-        "min": 78698,
-        "max": 157397,
-        "currency": "Robux",
-        "description": "Khoảng Robux ước tính để định giá toàn bộ game."
-      },
-      "criteria": {
-        "ccu_current": {
-          "value": 10480,
-          "description": "Số người chơi đồng thời tại thời điểm đánh giá."
-        },
-        "ccu_peak": {
-          "value": 62416,
-          "description": "CCU cao nhất mà game từng đạt được."
-        },
-        "ccu_average": {
-          "value": 29545,
-          "description": "CCU trung bình trong một khoảng thời gian nhất định."
-        },
-        "ccu_growth_rate": {
-          "value": 4.4,
-          "description": "Tốc độ tăng hoặc giảm CCU theo thời gian, tính theo phần trăm."
-        },
-        "difficulty_upgrade": {
-          "value": 41,
-          "description": "Mức độ game còn có thể mở rộng progression, nâng cấp, cấp độ và độ khó."
-        },
-        "content_amount": {
-          "value": 91,
-          "description": "Lượng nội dung hiện có trong game."
-        },
-        "future_update_potential": {
-          "value": 45,
-          "description": "Khả năng khai thác thêm nội dung cho các bản cập nhật trong tương lai."
-        },
-        "content_expandability": {
-          "value": 76,
-          "description": "Khả năng mở rộng game bằng map, item, mechanic, quest, boss hoặc hệ thống mới."
-        },
-        "replayability": {
-          "value": 72,
-          "description": "Khả năng khiến người chơi quay lại chơi nhiều lần."
-        },
-        "gameplay_depth": {
-          "value": 90,
-          "description": "Độ sâu và số lượng hệ thống gameplay mà game sở hữu."
-        },
-        "player_retention": {
-          "value": 40,
-          "description": "Khả năng giữ người chơi tiếp tục chơi sau khi đã tham gia game."
-        },
-        "monetization_potential": {
-          "value": 45,
-          "description": "Tiềm năng tạo doanh thu từ game."
-        },
-        "robux_spending_potential": {
-          "value": 66,
-          "description": "Khả năng khiến người chơi chi Robux thông qua gamepass, developer product, item hoặc tính năng trả phí."
-        },
-        "community_size": {
-          "value": 19,
-          "description": "Quy mô cộng đồng và lượng người chơi quan tâm đến game."
-        },
-        "community_activity": {
-          "value": 46,
-          "description": "Mức độ hoạt động của cộng đồng, Discord, social media và các nền tảng liên quan."
-        },
-        "developer_activity": {
-          "value": 40,
-          "description": "Mức độ hoạt động và khả năng tiếp tục phát triển game của developer."
-        },
-        "update_frequency": {
-          "value": 44,
-          "description": "Tần suất game được cập nhật nội dung hoặc sửa đổi."
-        },
-        "trend_potential": {
-          "value": 52,
-          "description": "Khả năng game hưởng lợi từ xu hướng Roblox hoặc thị trường game hiện tại."
-        },
-        "viral_potential": {
-          "value": 50,
-          "description": "Khả năng game trở nên viral và thu hút lượng lớn người chơi trong thời gian ngắn."
-        },
-        "long_term_potential": {
-          "value": 79,
-          "description": "Khả năng game duy trì người chơi và giá trị trong dài hạn."
-        },
-        "competition_level": {
-          "value": 20,
-          "description": "Mức độ cạnh tranh với các game khác cùng thể loại."
-        },
-        "market_demand": {
-          "value": 27,
-          "description": "Mức độ nhu cầu của thị trường đối với thể loại và gameplay của game."
-        },
-        "like_ratio": {
-          "value": 61.6,
-          "description": "Tỷ lệ Like so với tổng số Like và Dislike (%)."
-        }
-      },
-      "overall_score": {
-        "value": 55.5,
+        "value": 62.9,
         "description": "Điểm tổng hợp cuối cùng dựa trên toàn bộ tiêu chí."
       }
     }
@@ -2728,107 +2728,107 @@
     "game": {
       "name": "Survival Island Pro",
       "robux_valuation": {
-        "min": 127261,
-        "max": 254523,
+        "min": 1956000,
+        "max": 3338000,
         "currency": "Robux",
         "description": "Khoảng Robux ước tính để định giá toàn bộ game."
       },
       "criteria": {
         "ccu_current": {
-          "value": 10064,
+          "value": 42203,
           "description": "Số người chơi đồng thời tại thời điểm đánh giá."
         },
         "ccu_peak": {
-          "value": 28243,
+          "value": 56479,
           "description": "CCU cao nhất mà game từng đạt được."
         },
         "ccu_average": {
-          "value": 4259,
+          "value": 8973,
           "description": "CCU trung bình trong một khoảng thời gian nhất định."
         },
         "ccu_growth_rate": {
-          "value": 16.1,
+          "value": 50.0,
           "description": "Tốc độ tăng hoặc giảm CCU theo thời gian, tính theo phần trăm."
         },
         "difficulty_upgrade": {
-          "value": 52,
+          "value": 33,
           "description": "Mức độ game còn có thể mở rộng progression, nâng cấp, cấp độ và độ khó."
         },
         "content_amount": {
-          "value": 79,
+          "value": 16,
           "description": "Lượng nội dung hiện có trong game."
         },
         "future_update_potential": {
-          "value": 69,
+          "value": 43,
           "description": "Khả năng khai thác thêm nội dung cho các bản cập nhật trong tương lai."
         },
         "content_expandability": {
-          "value": 63,
+          "value": 58,
           "description": "Khả năng mở rộng game bằng map, item, mechanic, quest, boss hoặc hệ thống mới."
         },
         "replayability": {
-          "value": 17,
+          "value": 51,
           "description": "Khả năng khiến người chơi quay lại chơi nhiều lần."
         },
         "gameplay_depth": {
-          "value": 36,
+          "value": 37,
           "description": "Độ sâu và số lượng hệ thống gameplay mà game sở hữu."
         },
         "player_retention": {
-          "value": 63,
+          "value": 68,
           "description": "Khả năng giữ người chơi tiếp tục chơi sau khi đã tham gia game."
         },
         "monetization_potential": {
-          "value": 59,
+          "value": 51,
           "description": "Tiềm năng tạo doanh thu từ game."
         },
         "robux_spending_potential": {
-          "value": 84,
+          "value": 53,
           "description": "Khả năng khiến người chơi chi Robux thông qua gamepass, developer product, item hoặc tính năng trả phí."
         },
         "community_size": {
-          "value": 12,
+          "value": 58,
           "description": "Quy mô cộng đồng và lượng người chơi quan tâm đến game."
         },
         "community_activity": {
-          "value": 83,
+          "value": 45,
           "description": "Mức độ hoạt động của cộng đồng, Discord, social media và các nền tảng liên quan."
         },
         "developer_activity": {
-          "value": 58,
+          "value": 63,
           "description": "Mức độ hoạt động và khả năng tiếp tục phát triển game của developer."
         },
         "update_frequency": {
-          "value": 71,
+          "value": 42,
           "description": "Tần suất game được cập nhật nội dung hoặc sửa đổi."
         },
         "trend_potential": {
-          "value": 10,
+          "value": 20,
           "description": "Khả năng game hưởng lợi từ xu hướng Roblox hoặc thị trường game hiện tại."
         },
         "viral_potential": {
-          "value": 55,
+          "value": 70,
           "description": "Khả năng game trở nên viral và thu hút lượng lớn người chơi trong thời gian ngắn."
         },
         "long_term_potential": {
-          "value": 48,
+          "value": 12,
           "description": "Khả năng game duy trì người chơi và giá trị trong dài hạn."
         },
         "competition_level": {
-          "value": 59,
+          "value": 79,
           "description": "Mức độ cạnh tranh với các game khác cùng thể loại."
         },
         "market_demand": {
-          "value": 63,
+          "value": 16,
           "description": "Mức độ nhu cầu của thị trường đối với thể loại và gameplay của game."
         },
         "like_ratio": {
-          "value": 78.7,
+          "value": 99.0,
           "description": "Tỷ lệ Like so với tổng số Like và Dislike (%)."
         }
       },
       "overall_score": {
-        "value": 57.7,
+        "value": 47.9,
         "description": "Điểm tổng hợp cuối cùng dựa trên toàn bộ tiêu chí."
       }
     }
@@ -2837,107 +2837,107 @@
     "game": {
       "name": "Battle Royale Arena",
       "robux_valuation": {
-        "min": 94549,
-        "max": 189099,
+        "min": 367000,
+        "max": 638000,
         "currency": "Robux",
         "description": "Khoảng Robux ước tính để định giá toàn bộ game."
       },
       "criteria": {
         "ccu_current": {
-          "value": 39584,
+          "value": 42793,
           "description": "Số người chơi đồng thời tại thời điểm đánh giá."
         },
         "ccu_peak": {
-          "value": 29106,
+          "value": 5576,
           "description": "CCU cao nhất mà game từng đạt được."
         },
         "ccu_average": {
-          "value": 32046,
+          "value": 2113,
           "description": "CCU trung bình trong một khoảng thời gian nhất định."
         },
         "ccu_growth_rate": {
-          "value": 1.5,
+          "value": 56.2,
           "description": "Tốc độ tăng hoặc giảm CCU theo thời gian, tính theo phần trăm."
         },
         "difficulty_upgrade": {
-          "value": 65,
+          "value": 35,
           "description": "Mức độ game còn có thể mở rộng progression, nâng cấp, cấp độ và độ khó."
         },
         "content_amount": {
-          "value": 72,
+          "value": 12,
           "description": "Lượng nội dung hiện có trong game."
         },
         "future_update_potential": {
-          "value": 13,
+          "value": 89,
           "description": "Khả năng khai thác thêm nội dung cho các bản cập nhật trong tương lai."
         },
         "content_expandability": {
-          "value": 59,
+          "value": 29,
           "description": "Khả năng mở rộng game bằng map, item, mechanic, quest, boss hoặc hệ thống mới."
         },
         "replayability": {
-          "value": 53,
+          "value": 40,
           "description": "Khả năng khiến người chơi quay lại chơi nhiều lần."
         },
         "gameplay_depth": {
-          "value": 95,
+          "value": 26,
           "description": "Độ sâu và số lượng hệ thống gameplay mà game sở hữu."
         },
         "player_retention": {
-          "value": 61,
+          "value": 70,
           "description": "Khả năng giữ người chơi tiếp tục chơi sau khi đã tham gia game."
         },
         "monetization_potential": {
-          "value": 31,
+          "value": 95,
           "description": "Tiềm năng tạo doanh thu từ game."
         },
         "robux_spending_potential": {
-          "value": 69,
+          "value": 24,
           "description": "Khả năng khiến người chơi chi Robux thông qua gamepass, developer product, item hoặc tính năng trả phí."
         },
         "community_size": {
-          "value": 26,
+          "value": 82,
           "description": "Quy mô cộng đồng và lượng người chơi quan tâm đến game."
         },
         "community_activity": {
-          "value": 89,
+          "value": 37,
           "description": "Mức độ hoạt động của cộng đồng, Discord, social media và các nền tảng liên quan."
         },
         "developer_activity": {
-          "value": 78,
+          "value": 69,
           "description": "Mức độ hoạt động và khả năng tiếp tục phát triển game của developer."
         },
         "update_frequency": {
-          "value": 13,
+          "value": 42,
           "description": "Tần suất game được cập nhật nội dung hoặc sửa đổi."
         },
         "trend_potential": {
-          "value": 60,
+          "value": 57,
           "description": "Khả năng game hưởng lợi từ xu hướng Roblox hoặc thị trường game hiện tại."
         },
         "viral_potential": {
-          "value": 85,
+          "value": 31,
           "description": "Khả năng game trở nên viral và thu hút lượng lớn người chơi trong thời gian ngắn."
         },
         "long_term_potential": {
-          "value": 82,
+          "value": 87,
           "description": "Khả năng game duy trì người chơi và giá trị trong dài hạn."
         },
         "competition_level": {
-          "value": 94,
+          "value": 87,
           "description": "Mức độ cạnh tranh với các game khác cùng thể loại."
         },
         "market_demand": {
-          "value": 13,
+          "value": 24,
           "description": "Mức độ nhu cầu của thị trường đối với thể loại và gameplay của game."
         },
         "like_ratio": {
-          "value": 58.7,
+          "value": 89.2,
           "description": "Tỷ lệ Like so với tổng số Like và Dislike (%)."
         }
       },
       "overall_score": {
-        "value": 62.2,
+        "value": 55.1,
         "description": "Điểm tổng hợp cuối cùng dựa trên toàn bộ tiêu chí."
       }
     }
@@ -2946,107 +2946,107 @@
     "game": {
       "name": "Cooking Restaurant Tycoon",
       "robux_valuation": {
-        "min": 103218,
-        "max": 206436,
+        "min": 8137000,
+        "max": 14479000,
         "currency": "Robux",
         "description": "Khoảng Robux ước tính để định giá toàn bộ game."
       },
       "criteria": {
         "ccu_current": {
-          "value": 30307,
+          "value": 20524,
           "description": "Số người chơi đồng thời tại thời điểm đánh giá."
         },
         "ccu_peak": {
-          "value": 24019,
+          "value": 75770,
           "description": "CCU cao nhất mà game từng đạt được."
         },
         "ccu_average": {
-          "value": 3345,
+          "value": 44470,
           "description": "CCU trung bình trong một khoảng thời gian nhất định."
         },
         "ccu_growth_rate": {
-          "value": 4.5,
+          "value": 53.1,
           "description": "Tốc độ tăng hoặc giảm CCU theo thời gian, tính theo phần trăm."
         },
         "difficulty_upgrade": {
-          "value": 51,
+          "value": 58,
           "description": "Mức độ game còn có thể mở rộng progression, nâng cấp, cấp độ và độ khó."
         },
         "content_amount": {
-          "value": 37,
+          "value": 60,
           "description": "Lượng nội dung hiện có trong game."
         },
         "future_update_potential": {
-          "value": 68,
+          "value": 35,
           "description": "Khả năng khai thác thêm nội dung cho các bản cập nhật trong tương lai."
         },
         "content_expandability": {
-          "value": 51,
+          "value": 19,
           "description": "Khả năng mở rộng game bằng map, item, mechanic, quest, boss hoặc hệ thống mới."
         },
         "replayability": {
-          "value": 53,
+          "value": 85,
           "description": "Khả năng khiến người chơi quay lại chơi nhiều lần."
         },
         "gameplay_depth": {
-          "value": 58,
+          "value": 90,
           "description": "Độ sâu và số lượng hệ thống gameplay mà game sở hữu."
         },
         "player_retention": {
-          "value": 45,
+          "value": 41,
           "description": "Khả năng giữ người chơi tiếp tục chơi sau khi đã tham gia game."
         },
         "monetization_potential": {
-          "value": 63,
+          "value": 23,
           "description": "Tiềm năng tạo doanh thu từ game."
         },
         "robux_spending_potential": {
-          "value": 42,
+          "value": 48,
           "description": "Khả năng khiến người chơi chi Robux thông qua gamepass, developer product, item hoặc tính năng trả phí."
         },
         "community_size": {
-          "value": 20,
+          "value": 86,
           "description": "Quy mô cộng đồng và lượng người chơi quan tâm đến game."
         },
         "community_activity": {
-          "value": 70,
+          "value": 25,
           "description": "Mức độ hoạt động của cộng đồng, Discord, social media và các nền tảng liên quan."
         },
         "developer_activity": {
-          "value": 12,
+          "value": 82,
           "description": "Mức độ hoạt động và khả năng tiếp tục phát triển game của developer."
         },
         "update_frequency": {
-          "value": 79,
+          "value": 15,
           "description": "Tần suất game được cập nhật nội dung hoặc sửa đổi."
         },
         "trend_potential": {
-          "value": 16,
+          "value": 54,
           "description": "Khả năng game hưởng lợi từ xu hướng Roblox hoặc thị trường game hiện tại."
         },
         "viral_potential": {
-          "value": 54,
+          "value": 78,
           "description": "Khả năng game trở nên viral và thu hút lượng lớn người chơi trong thời gian ngắn."
         },
         "long_term_potential": {
-          "value": 38,
+          "value": 64,
           "description": "Khả năng game duy trì người chơi và giá trị trong dài hạn."
         },
         "competition_level": {
-          "value": 93,
+          "value": 94,
           "description": "Mức độ cạnh tranh với các game khác cùng thể loại."
         },
         "market_demand": {
-          "value": 18,
+          "value": 57,
           "description": "Mức độ nhu cầu của thị trường đối với thể loại và gameplay của game."
         },
         "like_ratio": {
-          "value": 89.4,
+          "value": 58.0,
           "description": "Tỷ lệ Like so với tổng số Like và Dislike (%)."
         }
       },
       "overall_score": {
-        "value": 51.1,
+        "value": 59.6,
         "description": "Điểm tổng hợp cuối cùng dựa trên toàn bộ tiêu chí."
       }
     }
@@ -3055,107 +3055,107 @@
     "game": {
       "name": "Robot Factory Sim",
       "robux_valuation": {
-        "min": 35136,
-        "max": 70273,
+        "min": 10605000,
+        "max": 16570000,
         "currency": "Robux",
         "description": "Khoảng Robux ước tính để định giá toàn bộ game."
       },
       "criteria": {
         "ccu_current": {
-          "value": 2083,
+          "value": 32205,
           "description": "Số người chơi đồng thời tại thời điểm đánh giá."
         },
         "ccu_peak": {
-          "value": 32611,
+          "value": 14133,
           "description": "CCU cao nhất mà game từng đạt được."
         },
         "ccu_average": {
-          "value": 13115,
+          "value": 28491,
           "description": "CCU trung bình trong một khoảng thời gian nhất định."
         },
         "ccu_growth_rate": {
-          "value": 47.9,
+          "value": 57.1,
           "description": "Tốc độ tăng hoặc giảm CCU theo thời gian, tính theo phần trăm."
         },
         "difficulty_upgrade": {
-          "value": 89,
+          "value": 91,
           "description": "Mức độ game còn có thể mở rộng progression, nâng cấp, cấp độ và độ khó."
         },
         "content_amount": {
-          "value": 29,
+          "value": 68,
           "description": "Lượng nội dung hiện có trong game."
         },
         "future_update_potential": {
-          "value": 40,
+          "value": 29,
           "description": "Khả năng khai thác thêm nội dung cho các bản cập nhật trong tương lai."
         },
         "content_expandability": {
-          "value": 26,
+          "value": 65,
           "description": "Khả năng mở rộng game bằng map, item, mechanic, quest, boss hoặc hệ thống mới."
         },
         "replayability": {
-          "value": 70,
+          "value": 32,
           "description": "Khả năng khiến người chơi quay lại chơi nhiều lần."
         },
         "gameplay_depth": {
-          "value": 95,
+          "value": 76,
           "description": "Độ sâu và số lượng hệ thống gameplay mà game sở hữu."
         },
         "player_retention": {
-          "value": 24,
+          "value": 93,
           "description": "Khả năng giữ người chơi tiếp tục chơi sau khi đã tham gia game."
         },
         "monetization_potential": {
-          "value": 82,
+          "value": 44,
           "description": "Tiềm năng tạo doanh thu từ game."
         },
         "robux_spending_potential": {
-          "value": 37,
+          "value": 88,
           "description": "Khả năng khiến người chơi chi Robux thông qua gamepass, developer product, item hoặc tính năng trả phí."
         },
         "community_size": {
-          "value": 69,
+          "value": 78,
           "description": "Quy mô cộng đồng và lượng người chơi quan tâm đến game."
         },
         "community_activity": {
-          "value": 42,
+          "value": 71,
           "description": "Mức độ hoạt động của cộng đồng, Discord, social media và các nền tảng liên quan."
         },
         "developer_activity": {
-          "value": 57,
+          "value": 69,
           "description": "Mức độ hoạt động và khả năng tiếp tục phát triển game của developer."
         },
         "update_frequency": {
-          "value": 31,
+          "value": 65,
           "description": "Tần suất game được cập nhật nội dung hoặc sửa đổi."
         },
         "trend_potential": {
-          "value": 87,
+          "value": 85,
           "description": "Khả năng game hưởng lợi từ xu hướng Roblox hoặc thị trường game hiện tại."
         },
         "viral_potential": {
-          "value": 87,
+          "value": 44,
           "description": "Khả năng game trở nên viral và thu hút lượng lớn người chơi trong thời gian ngắn."
         },
         "long_term_potential": {
-          "value": 24,
+          "value": 51,
           "description": "Khả năng game duy trì người chơi và giá trị trong dài hạn."
         },
         "competition_level": {
-          "value": 30,
+          "value": 41,
           "description": "Mức độ cạnh tranh với các game khác cùng thể loại."
         },
         "market_demand": {
-          "value": 49,
+          "value": 21,
           "description": "Mức độ nhu cầu của thị trường đối với thể loại và gameplay của game."
         },
         "like_ratio": {
-          "value": 59.8,
+          "value": 67.3,
           "description": "Tỷ lệ Like so với tổng số Like và Dislike (%)."
         }
       },
       "overall_score": {
-        "value": 56.9,
+        "value": 65.4,
         "description": "Điểm tổng hợp cuối cùng dựa trên toàn bộ tiêu chí."
       }
     }
@@ -3164,107 +3164,107 @@
     "game": {
       "name": "Wizard Academy Online",
       "robux_valuation": {
-        "min": 34182,
-        "max": 68365,
+        "min": 5446000,
+        "max": 9474000,
         "currency": "Robux",
         "description": "Khoảng Robux ước tính để định giá toàn bộ game."
       },
       "criteria": {
         "ccu_current": {
-          "value": 20494,
+          "value": 43870,
           "description": "Số người chơi đồng thời tại thời điểm đánh giá."
         },
         "ccu_peak": {
-          "value": 75670,
+          "value": 49974,
           "description": "CCU cao nhất mà game từng đạt được."
         },
         "ccu_average": {
-          "value": 24646,
+          "value": 22126,
           "description": "CCU trung bình trong một khoảng thời gian nhất định."
         },
         "ccu_growth_rate": {
-          "value": 14.7,
+          "value": -12.8,
           "description": "Tốc độ tăng hoặc giảm CCU theo thời gian, tính theo phần trăm."
         },
         "difficulty_upgrade": {
-          "value": 35,
+          "value": 51,
           "description": "Mức độ game còn có thể mở rộng progression, nâng cấp, cấp độ và độ khó."
         },
         "content_amount": {
-          "value": 19,
+          "value": 33,
           "description": "Lượng nội dung hiện có trong game."
         },
         "future_update_potential": {
-          "value": 85,
+          "value": 72,
           "description": "Khả năng khai thác thêm nội dung cho các bản cập nhật trong tương lai."
         },
         "content_expandability": {
-          "value": 90,
+          "value": 37,
           "description": "Khả năng mở rộng game bằng map, item, mechanic, quest, boss hoặc hệ thống mới."
         },
         "replayability": {
-          "value": 41,
+          "value": 55,
           "description": "Khả năng khiến người chơi quay lại chơi nhiều lần."
         },
         "gameplay_depth": {
-          "value": 23,
+          "value": 43,
           "description": "Độ sâu và số lượng hệ thống gameplay mà game sở hữu."
         },
         "player_retention": {
-          "value": 48,
+          "value": 53,
           "description": "Khả năng giữ người chơi tiếp tục chơi sau khi đã tham gia game."
         },
         "monetization_potential": {
-          "value": 86,
+          "value": 45,
           "description": "Tiềm năng tạo doanh thu từ game."
         },
         "robux_spending_potential": {
-          "value": 25,
+          "value": 86,
           "description": "Khả năng khiến người chơi chi Robux thông qua gamepass, developer product, item hoặc tính năng trả phí."
         },
         "community_size": {
-          "value": 82,
+          "value": 45,
           "description": "Quy mô cộng đồng và lượng người chơi quan tâm đến game."
         },
         "community_activity": {
-          "value": 15,
+          "value": 81,
           "description": "Mức độ hoạt động của cộng đồng, Discord, social media và các nền tảng liên quan."
         },
         "developer_activity": {
-          "value": 54,
+          "value": 11,
           "description": "Mức độ hoạt động và khả năng tiếp tục phát triển game của developer."
         },
         "update_frequency": {
-          "value": 78,
+          "value": 76,
           "description": "Tần suất game được cập nhật nội dung hoặc sửa đổi."
         },
         "trend_potential": {
-          "value": 64,
+          "value": 34,
           "description": "Khả năng game hưởng lợi từ xu hướng Roblox hoặc thị trường game hiện tại."
         },
         "viral_potential": {
-          "value": 94,
+          "value": 20,
           "description": "Khả năng game trở nên viral và thu hút lượng lớn người chơi trong thời gian ngắn."
         },
         "long_term_potential": {
-          "value": 57,
+          "value": 40,
           "description": "Khả năng game duy trì người chơi và giá trị trong dài hạn."
         },
         "competition_level": {
-          "value": 18,
+          "value": 62,
           "description": "Mức độ cạnh tranh với các game khác cùng thể loại."
         },
         "market_demand": {
-          "value": 74,
+          "value": 72,
           "description": "Mức độ nhu cầu của thị trường đối với thể loại và gameplay của game."
         },
         "like_ratio": {
-          "value": 83.5,
+          "value": 79.4,
           "description": "Tỷ lệ Like so với tổng số Like và Dislike (%)."
         }
       },
       "overall_score": {
-        "value": 58.1,
+        "value": 53.9,
         "description": "Điểm tổng hợp cuối cùng dựa trên toàn bộ tiêu chí."
       }
     }
